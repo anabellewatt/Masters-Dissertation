@@ -1,0 +1,472 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "b8de483b-d87e-428d-a015-6b5f1d86630c"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+          },
+          {
+            "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+          },
+          {
+            "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+          },
+          {
+            "S": "Firefighter games"
+          },
+          {
+            "S": "Implementation of an Algorithm for Optimal Probability Computation Using Transition Probability Matrices"
+          },
+          {
+            "S": "Natural head motion synthesis with Generative Adversarial Networks"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Analysing Blockchain Protocols"
+          },
+          {
+            "S": "Algorithms workbench."
+          },
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "A compiler (in Haskell) for FDDL"
+          },
+          {
+            "S": "Automatic punctuation annotation using Transformers"
+          },
+          {
+            "S": "Flying vehicles guided by insect navigation algorithms"
+          },
+          {
+            "S": "Auto Parallelisation Through Deep Learning"
+          },
+          {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          {
+            "S": "An experimental study of tree based index data structures"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Privacy Research Artefacts Evaluation"
+          },
+          {
+            "S": "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis"
+          },
+          {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:00:51"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+          },
+          {
+            "S": "Web color palettes using MCMC with people"
+          },
+          {
+            "S": "Modern Analog Computing"
+          },
+          {
+            "S": "Solving terms in the Lukasiewicz mu calculus."
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          {
+            "S": "Query Rewritability for Rule based Ontology mediated Queries"
+          },
+          {
+            "S": "User studies on Bitcoin wallets"
+          },
+          {
+            "S": "Investigation Vulnerabilities of Internet connected blood pressure monitors"
+          },
+          {
+            "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+          },
+          {
+            "S": "Model based Control of Continuum Robots"
+          },
+          {
+            "S": "Transcription of Music into Drum Sheets"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "A computer assisted translator of Latin to English"
+          },
+          {
+            "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+          },
+          {
+            "S": "Tracking beak and foot movements for weaver bird nest building"
+          },
+          {
+            "S": "Machine Learning for Stock Price Prediction"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Improving a formal verification tool for cyber physical systems"
+          }
+        ]
+      },
+      "really-want": {
+        "L": []
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:01:17"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yea fairly standard"
+          },
+          "question3": {
+            "S": "N.A."
+          },
+          "question4": {
+            "S": "N.A."
+          },
+          "question5": {
+            "S": "N.A."
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Topological analysis of biomedical data"
+      },
+      {
+        "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+      },
+      {
+        "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+      },
+      {
+        "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+      },
+      {
+        "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+      },
+      {
+        "S": "Learning in Competitive Games"
+      },
+      {
+        "S": "Implementation of a SAT counting algorithm"
+      },
+      {
+        "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+      },
+      {
+        "S": "Visual tools and extensions for Attack Trees"
+      },
+      {
+        "S": "Transcription of Music into Drum Sheets"
+      },
+      {
+        "S": "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer"
+      },
+      {
+        "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+      },
+      {
+        "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+      },
+      {
+        "S": "Energy costs of Neural Nets"
+      },
+      {
+        "S": "Spin it, Maude! A SPIN like model checker in Maude"
+      },
+      {
+        "S": "ML driven buffer management in PostgreSQL"
+      },
+      {
+        "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+      },
+      {
+        "S": "A Backend for a Coherence Protocol Generator"
+      },
+      {
+        "S": "A web interface for PMark"
+      },
+      {
+        "S": "Improving read accuracy of floppy disks using software techniques"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:21:22"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Topological analysis of biomedical data"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Learning in Competitive Games"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Visual tools and extensions for Attack Trees"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Energy costs of Neural Nets"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Spin it, Maude! A SPIN like model checker in Maude"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "ML driven buffer management in PostgreSQL"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A Backend for a Coherence Protocol Generator"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A web interface for PMark"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improving read accuracy of floppy disks using software techniques"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:10"
+  }
+}

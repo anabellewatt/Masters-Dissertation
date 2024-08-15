@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "c75d2ef7-7568-4e0e-8200-b7fa4025fc65"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Text driven head motion synthesis of animated agents using neural networks"
+          },
+          {
+            "S": "Automatic segmentation of biomes in medium resolution satellite imagery"
+          },
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "Learning in Competitive Games"
+          },
+          {
+            "S": "A computer assisted translator of Latin to English"
+          },
+          {
+            "S": "Interactive Task Learning using Corrective Dialogue Moves"
+          },
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Mobile measurement of urban interference and spectrum utilisation patterns"
+          },
+          {
+            "S": "The MarkEd tool for Marking, Feedback and Moderation II"
+          },
+          {
+            "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+          },
+          {
+            "S": "Analysing and simplifying chord progressions"
+          },
+          {
+            "S": "A \"Permissions\" System in Linux"
+          },
+          {
+            "S": "Learning to play Draughts"
+          },
+          {
+            "S": "Measure what a \"normal\" URL looks like for users"
+          },
+          {
+            "S": "Developing an app for children in hospital"
+          },
+          {
+            "S": "Anonymous Messaging on a RaspberryPiNet"
+          },
+          {
+            "S": "Privacy Research Artefacts Evaluation"
+          },
+          {
+            "S": "Visual Sudoku Solver"
+          },
+          {
+            "S": "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+          },
+          {
+            "S": "Animatikz: A LaTeX package for animations"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:03:38"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Blockchain Ticketing System"
+          },
+          {
+            "S": "Secure mobile applications using Trusted Execution Environments"
+          },
+          {
+            "S": "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements"
+          },
+          {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          {
+            "S": "Animatikz: A LaTeX package for animations"
+          },
+          {
+            "S": "Web color palettes using MCMC with people"
+          },
+          {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          {
+            "S": "Learning to play Draughts"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+          },
+          {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          {
+            "S": "Bringing the stupid computer to life"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Supporting Interactive Inference in FRANK"
+          },
+          {
+            "S": "Learning versatile dynamic motor skills for a quadruped robot"
+          },
+          {
+            "S": "Extensive Evaluation of State of the Art Network Stacks"
+          },
+          {
+            "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+          },
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Interactive Task Learning using Corrective Dialogue Moves"
+          },
+          {
+            "S": "Approximate haplotype calling from short read sequencing datasets"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:05:55"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yes"
+          },
+          "question3": {
+            "S": "Create some general domain buckets and let students rank projects in those buckets, then rank the buckets themselves. If one project fits in multiple buckets, you can put it in all of them or just the main one, but this should be clearly communicated, and the project supervisor should be the one to put a project in a bucket.\n\nIN terms of practically allocating projects, you can allow students to add weights both to buckets and the ranking of the projects. There are many ways of implementing such a weighting system, but any implementation that is chosen should be explained IN DETAIL to the students."
+          },
+          "question4": {
+            "S": "Too secretive on the details. The entire ranking and allocation process was made a black box for no reason and to the detriment of students. Opensource the algorithm and let students simulate things because at the end of the day it is not about what you prefer or you are qualified for, it is about the odds of what you can get.\n\nA VPN is required to access the platform unless EDUROAM is used. In fact, the platform itself feels outdated and lacks a lot of quality-of-life features. Direct communication with the supervisor through the platform is one. A better breakdown of the odds of getting the project based on other user preferences and outcome of suitability. And there could be many more.\n\nI was happy with the allocation result&#47;outcome but not with the process for the above-mentioned reasons."
+          },
+          "question5": {
+            "S": "Please do a study on the platform used for allocation and ranking. There are many good ideas that would help the project allocation process that do not have anything to do with the ranking system."
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Automatic Knowledge Discovery"
+      },
+      {
+        "S": "Emergence of Language with Multi agent HyperNeat"
+      },
+      {
+        "S": "Control of behaviour in a pet robot"
+      },
+      {
+        "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+      },
+      {
+        "S": "Learning systems biology models from data"
+      },
+      {
+        "S": "Near real time speech transcription service"
+      },
+      {
+        "S": "Estimate robot ego motion with an event based camera"
+      },
+      {
+        "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+      },
+      {
+        "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+      },
+      {
+        "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+      },
+      {
+        "S": "Fast Sequence Alignment for Merging Functions"
+      },
+      {
+        "S": "Pedagogically sensible lab sessions for Software Design and Modelling"
+      },
+      {
+        "S": "Make an Amazon Alexa talk to people about privacy"
+      },
+      {
+        "S": "Visual tools and extensions for Attack Trees"
+      },
+      {
+        "S": "Hardware Support for JIT Compilation"
+      },
+      {
+        "S": "Structure learning of bipartite Ising models"
+      },
+      {
+        "S": "A web interface for PMark"
+      },
+      {
+        "S": "Exploring gamification techniques in children  ™s computer science learning"
+      },
+      {
+        "S": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+      },
+      {
+        "S": "Learning to play Draughts"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:03:01"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Knowledge Discovery"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Emergence of Language with Multi agent HyperNeat"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Control of behaviour in a pet robot"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Learning systems biology models from data"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Near real time speech transcription service"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Estimate robot ego motion with an event based camera"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Fast Sequence Alignment for Merging Functions"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pedagogically sensible lab sessions for Software Design and Modelling"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Visual tools and extensions for Attack Trees"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Hardware Support for JIT Compilation"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Structure learning of bipartite Ising models"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A web interface for PMark"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Exploring gamification techniques in children  ™s computer science learning"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Learning to play Draughts"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:42"
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "363d5960-6cf3-429e-aaf1-64dfd2732094"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Data Mining Wikipedia"
+          },
+          {
+            "S": "Computational modelling of biological learning"
+          },
+          {
+            "S": "The MarkEd tool for Marking, Feedback and Moderation II"
+          },
+          {
+            "S": "Solving the Plumbing Problem in Web Components using Lenses"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "A \"Permissions\" System in Linux"
+          },
+          {
+            "S": "A plugin that reminds you the privacy settings in online systems"
+          },
+          {
+            "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+          },
+          {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          {
+            "S": "The distribution of roots of random polynomials."
+          },
+          {
+            "S": "Sharing is Caring: Implementing Virtualised Wi Fi"
+          },
+          {
+            "S": "An integrated C/Lisp Emacs debugger"
+          },
+          {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          {
+            "S": "Improved navigation of recovered teletext data"
+          },
+          {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          {
+            "S": "Anonymous Messaging on a RaspberryPiNet"
+          },
+          {
+            "S": "Mobile measurement of urban interference and spectrum utilisation patterns"
+          },
+          {
+            "S": "A front end for the probabilistic model checker Storm"
+          },
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          },
+          {
+            "S": "Formal Proofs of Cryptographic Protocols"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:04"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          {
+            "S": "Fast Sequence Alignment for Merging Functions"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Access constraints discovery"
+          },
+          {
+            "S": "Classifying Mathematical Articles into Their Fields"
+          },
+          {
+            "S": "Transportation network analysis with Map Directions API data"
+          },
+          {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          {
+            "S": "Machine learning for modelling cell metabolism"
+          },
+          {
+            "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+          },
+          {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          {
+            "S": "User space thread migration in Linux"
+          },
+          {
+            "S": "Litter: A location based Twitter app"
+          },
+          {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Control of behaviour in a pet robot"
+          },
+          {
+            "S": "Learning to play Draughts"
+          },
+          {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          },
+          {
+            "S": "Developing tools for audio visual speech recognition"
+          },
+          {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          {
+            "S": "Cancer data science and epigenetics"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:01:55"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yes, I found the website easy to navigate."
+          },
+          "question3": {
+            "S": "No"
+          },
+          "question4": {
+            "S": "I think the process should be simplified and more transparent. It would be great to know why you weren&#39;t allocated a project you picked as your first."
+          },
+          "question5": {
+            "S": "No"
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Deep learning for robot control"
+      },
+      {
+        "S": "Natural head motion synthesis with Generative Adversarial Networks"
+      },
+      {
+        "S": "Energy costs of Neural Nets"
+      },
+      {
+        "S": "Model based Control of Continuum Robots"
+      },
+      {
+        "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+      },
+      {
+        "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+      },
+      {
+        "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+      },
+      {
+        "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+      },
+      {
+        "S": "Query Rewritability for Rule based Ontology mediated Queries"
+      },
+      {
+        "S": "Improved Workflow Execution in WorkflowFM"
+      },
+      {
+        "S": "A graphical workbench for experimenting with hash tables"
+      },
+      {
+        "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+      },
+      {
+        "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+      },
+      {
+        "S": "Improved navigation of recovered teletext data"
+      },
+      {
+        "S": "System F in Polymorphic Blocks"
+      },
+      {
+        "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+      },
+      {
+        "S": "Automatic Knowledge Discovery"
+      },
+      {
+        "S": "Anonymous Messaging on a RaspberryPiNet"
+      },
+      {
+        "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+      },
+      {
+        "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:02:26"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Deep learning for robot control"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Natural head motion synthesis with Generative Adversarial Networks"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Energy costs of Neural Nets"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Model based Control of Continuum Robots"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Query Rewritability for Rule based Ontology mediated Queries"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improved Workflow Execution in WorkflowFM"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improved navigation of recovered teletext data"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "System F in Polymorphic Blocks"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Knowledge Discovery"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Anonymous Messaging on a RaspberryPiNet"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:00:35"
+  }
+}

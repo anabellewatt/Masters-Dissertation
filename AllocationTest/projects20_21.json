@@ -1,0 +1,1142 @@
+[
+        {
+            "pid": 4557,
+            "supervisor_id": 1318,
+            "capacity": 1
+        },
+        {
+            "pid": 4383,
+            "supervisor_id": 1319,
+            "capacity": 1
+        },
+        {
+            "pid": 4384,
+            "supervisor_id": 1319,
+            "capacity": 1
+        },
+        {
+            "pid": 4385,
+            "supervisor_id": 1319,
+            "capacity": 2
+        },
+        {
+            "pid": 4530,
+            "supervisor_id": 1320,
+            "capacity": 3
+        },
+        {
+            "pid": 4531,
+            "supervisor_id": 1320,
+            "capacity": 1
+        },
+        {
+            "pid": 4405,
+            "supervisor_id": 1322,
+            "capacity": 1
+        },
+        {
+            "pid": 4406,
+            "supervisor_id": 1322,
+            "capacity": 4
+        },
+        {
+            "pid": 4407,
+            "supervisor_id": 1322,
+            "capacity": 4
+        },
+        {
+            "pid": 4532,
+            "supervisor_id": 1322,
+            "capacity": 1
+        },
+        {
+            "pid": 4398,
+            "supervisor_id": 1324,
+            "capacity": 2
+        },
+        {
+            "pid": 4404,
+            "supervisor_id": 1324,
+            "capacity": 1
+        },
+        {
+            "pid": 4590,
+            "supervisor_id": 1324,
+            "capacity": 1
+        },
+        {
+            "pid": 4413,
+            "supervisor_id": 1328,
+            "capacity": 2
+        },
+        {
+            "pid": 4461,
+            "supervisor_id": 1328,
+            "capacity": 1
+        },
+        {
+            "pid": 4610,
+            "supervisor_id": 1328,
+            "capacity": 1
+        },
+        {
+            "pid": 4497,
+            "supervisor_id": 1329,
+            "capacity": 2
+        },
+        {
+            "pid": 4561,
+            "supervisor_id": 1330,
+            "capacity": 2
+        },
+        {
+            "pid": 4562,
+            "supervisor_id": 1330,
+            "capacity": 1
+        },
+        {
+            "pid": 4583,
+            "supervisor_id": 1330,
+            "capacity": 1
+        },
+        {
+            "pid": 4517,
+            "supervisor_id": 1331,
+            "capacity": 4
+        },
+        {
+            "pid": 4518,
+            "supervisor_id": 1331,
+            "capacity": 2
+        },
+        {
+            "pid": 4509,
+            "supervisor_id": 1332,
+            "capacity": 3
+        },
+        {
+            "pid": 4510,
+            "supervisor_id": 1332,
+            "capacity": 1
+        },
+        {
+            "pid": 4511,
+            "supervisor_id": 1332,
+            "capacity": 1
+        },
+        {
+            "pid": 4516,
+            "supervisor_id": 1332,
+            "capacity": 1
+        },
+        {
+            "pid": 4412,
+            "supervisor_id": 1333,
+            "capacity": 1
+        },
+        {
+            "pid": 4471,
+            "supervisor_id": 1333,
+            "capacity": 1
+        },
+        {
+            "pid": 4472,
+            "supervisor_id": 1333,
+            "capacity": 2
+        },
+        {
+            "pid": 4476,
+            "supervisor_id": 1333,
+            "capacity": 1
+        },
+        {
+            "pid": 4560,
+            "supervisor_id": 1333,
+            "capacity": 1
+        },
+        {
+            "pid": 4360,
+            "supervisor_id": 1334,
+            "capacity": 2
+        },
+        {
+            "pid": 4361,
+            "supervisor_id": 1334,
+            "capacity": 1
+        },
+        {
+            "pid": 4362,
+            "supervisor_id": 1334,
+            "capacity": 3
+        },
+        {
+            "pid": 4363,
+            "supervisor_id": 1334,
+            "capacity": 1
+        },
+        {
+            "pid": 4580,
+            "supervisor_id": 1335,
+            "capacity": 2
+        },
+        {
+            "pid": 4581,
+            "supervisor_id": 1335,
+            "capacity": 1
+        },
+        {
+            "pid": 4582,
+            "supervisor_id": 1335,
+            "capacity": 1
+        },
+        {
+            "pid": 4565,
+            "supervisor_id": 1337,
+            "capacity": 1
+        },
+        {
+            "pid": 4552,
+            "supervisor_id": 1338,
+            "capacity": 1
+        },
+        {
+            "pid": 4553,
+            "supervisor_id": 1338,
+            "capacity": 1
+        },
+        {
+            "pid": 4554,
+            "supervisor_id": 1338,
+            "capacity": 1
+        },
+        {
+            "pid": 4555,
+            "supervisor_id": 1338,
+            "capacity": 1
+        },
+        {
+            "pid": 4601,
+            "supervisor_id": 1338,
+            "capacity": 1
+        },
+        {
+            "pid": 4494,
+            "supervisor_id": 1339,
+            "capacity": 2
+        },
+        {
+            "pid": 4495,
+            "supervisor_id": 1339,
+            "capacity": 1
+        },
+        {
+            "pid": 4408,
+            "supervisor_id": 1340,
+            "capacity": 2
+        },
+        {
+            "pid": 4410,
+            "supervisor_id": 1340,
+            "capacity": 2
+        },
+        {
+            "pid": 4432,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4433,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4436,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4438,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4558,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4594,
+            "supervisor_id": 1341,
+            "capacity": 1
+        },
+        {
+            "pid": 4545,
+            "supervisor_id": 1342,
+            "capacity": 4
+        },
+        {
+            "pid": 4592,
+            "supervisor_id": 1342,
+            "capacity": 3
+        },
+        {
+            "pid": 4456,
+            "supervisor_id": 1344,
+            "capacity": 1
+        },
+        {
+            "pid": 4457,
+            "supervisor_id": 1344,
+            "capacity": 2
+        },
+        {
+            "pid": 4458,
+            "supervisor_id": 1344,
+            "capacity": 1
+        },
+        {
+            "pid": 4485,
+            "supervisor_id": 1344,
+            "capacity": 1
+        },
+        {
+            "pid": 4455,
+            "supervisor_id": 1348,
+            "capacity": 2
+        },
+        {
+            "pid": 4460,
+            "supervisor_id": 1348,
+            "capacity": 2
+        },
+        {
+            "pid": 4529,
+            "supervisor_id": 1348,
+            "capacity": 1
+        },
+        {
+            "pid": 4377,
+            "supervisor_id": 1351,
+            "capacity": 3
+        },
+        {
+            "pid": 4378,
+            "supervisor_id": 1351,
+            "capacity": 3
+        },
+        {
+            "pid": 4379,
+            "supervisor_id": 1351,
+            "capacity": 1
+        },
+        {
+            "pid": 4401,
+            "supervisor_id": 1351,
+            "capacity": 1
+        },
+        {
+            "pid": 4533,
+            "supervisor_id": 1353,
+            "capacity": 2
+        },
+        {
+            "pid": 4534,
+            "supervisor_id": 1353,
+            "capacity": 1
+        },
+        {
+            "pid": 4535,
+            "supervisor_id": 1353,
+            "capacity": 2
+        },
+        {
+            "pid": 4536,
+            "supervisor_id": 1353,
+            "capacity": 1
+        },
+        {
+            "pid": 4434,
+            "supervisor_id": 1356,
+            "capacity": 1
+        },
+        {
+            "pid": 4498,
+            "supervisor_id": 1356,
+            "capacity": 1
+        },
+        {
+            "pid": 4541,
+            "supervisor_id": 1356,
+            "capacity": 1
+        },
+        {
+            "pid": 4608,
+            "supervisor_id": 1356,
+            "capacity": 1
+        },
+        {
+            "pid": 4371,
+            "supervisor_id": 1358,
+            "capacity": 1
+        },
+        {
+            "pid": 4470,
+            "supervisor_id": 1358,
+            "capacity": 1
+        },
+        {
+            "pid": 4473,
+            "supervisor_id": 1358,
+            "capacity": 1
+        },
+        {
+            "pid": 4387,
+            "supervisor_id": 1361,
+            "capacity": 2
+        },
+        {
+            "pid": 4389,
+            "supervisor_id": 1361,
+            "capacity": 1
+        },
+        {
+            "pid": 4512,
+            "supervisor_id": 1363,
+            "capacity": 2
+        },
+        {
+            "pid": 4514,
+            "supervisor_id": 1363,
+            "capacity": 2
+        },
+        {
+            "pid": 4515,
+            "supervisor_id": 1363,
+            "capacity": 2
+        },
+        {
+            "pid": 4574,
+            "supervisor_id": 1366,
+            "capacity": 1
+        },
+        {
+            "pid": 4575,
+            "supervisor_id": 1366,
+            "capacity": 2
+        },
+        {
+            "pid": 4577,
+            "supervisor_id": 1366,
+            "capacity": 2
+        },
+        {
+            "pid": 4519,
+            "supervisor_id": 1370,
+            "capacity": 1
+        },
+        {
+            "pid": 4520,
+            "supervisor_id": 1370,
+            "capacity": 1
+        },
+        {
+            "pid": 4521,
+            "supervisor_id": 1370,
+            "capacity": 1
+        },
+        {
+            "pid": 4522,
+            "supervisor_id": 1370,
+            "capacity": 1
+        },
+        {
+            "pid": 4605,
+            "supervisor_id": 1374,
+            "capacity": 5
+        },
+        {
+            "pid": 4606,
+            "supervisor_id": 1374,
+            "capacity": 1
+        },
+        {
+            "pid": 4542,
+            "supervisor_id": 1375,
+            "capacity": 1
+        },
+        {
+            "pid": 4544,
+            "supervisor_id": 1375,
+            "capacity": 1
+        },
+        {
+            "pid": 4546,
+            "supervisor_id": 1375,
+            "capacity": 1
+        },
+        {
+            "pid": 4547,
+            "supervisor_id": 1375,
+            "capacity": 1
+        },
+        {
+            "pid": 4462,
+            "supervisor_id": 1378,
+            "capacity": 2
+        },
+        {
+            "pid": 4463,
+            "supervisor_id": 1378,
+            "capacity": 2
+        },
+        {
+            "pid": 4464,
+            "supervisor_id": 1378,
+            "capacity": 1
+        },
+        {
+            "pid": 4414,
+            "supervisor_id": 1380,
+            "capacity": 2
+        },
+        {
+            "pid": 4415,
+            "supervisor_id": 1380,
+            "capacity": 1
+        },
+        {
+            "pid": 4416,
+            "supervisor_id": 1380,
+            "capacity": 2
+        },
+        {
+            "pid": 4417,
+            "supervisor_id": 1380,
+            "capacity": 2
+        },
+        {
+            "pid": 4420,
+            "supervisor_id": 1380,
+            "capacity": 2
+        },
+        {
+            "pid": 4421,
+            "supervisor_id": 1380,
+            "capacity": 2
+        },
+        {
+            "pid": 4540,
+            "supervisor_id": 1384,
+            "capacity": 1
+        },
+        {
+            "pid": 4386,
+            "supervisor_id": 1388,
+            "capacity": 1
+        },
+        {
+            "pid": 4400,
+            "supervisor_id": 1388,
+            "capacity": 2
+        },
+        {
+            "pid": 4600,
+            "supervisor_id": 1388,
+            "capacity": 1
+        },
+        {
+            "pid": 4366,
+            "supervisor_id": 1390,
+            "capacity": 1
+        },
+        {
+            "pid": 4367,
+            "supervisor_id": 1390,
+            "capacity": 2
+        },
+        {
+            "pid": 4368,
+            "supervisor_id": 1390,
+            "capacity": 2
+        },
+        {
+            "pid": 4369,
+            "supervisor_id": 1390,
+            "capacity": 1
+        },
+        {
+            "pid": 4588,
+            "supervisor_id": 1390,
+            "capacity": 1
+        },
+        {
+            "pid": 4443,
+            "supervisor_id": 1392,
+            "capacity": 2
+        },
+        {
+            "pid": 4444,
+            "supervisor_id": 1392,
+            "capacity": 2
+        },
+        {
+            "pid": 4445,
+            "supervisor_id": 1392,
+            "capacity": 1
+        },
+        {
+            "pid": 4446,
+            "supervisor_id": 1392,
+            "capacity": 2
+        },
+        {
+            "pid": 4447,
+            "supervisor_id": 1392,
+            "capacity": 1
+        },
+        {
+            "pid": 4493,
+            "supervisor_id": 1393,
+            "capacity": 3
+        },
+        {
+            "pid": 4506,
+            "supervisor_id": 1393,
+            "capacity": 1
+        },
+        {
+            "pid": 4507,
+            "supervisor_id": 1393,
+            "capacity": 1
+        },
+        {
+            "pid": 4556,
+            "supervisor_id": 1393,
+            "capacity": 1
+        },
+        {
+            "pid": 4429,
+            "supervisor_id": 1395,
+            "capacity": 1
+        },
+        {
+            "pid": 4430,
+            "supervisor_id": 1395,
+            "capacity": 2
+        },
+        {
+            "pid": 4431,
+            "supervisor_id": 1395,
+            "capacity": 2
+        },
+        {
+            "pid": 4364,
+            "supervisor_id": 1778,
+            "capacity": 2
+        },
+        {
+            "pid": 4365,
+            "supervisor_id": 1778,
+            "capacity": 1
+        },
+        {
+            "pid": 4370,
+            "supervisor_id": 1778,
+            "capacity": 1
+        },
+        {
+            "pid": 4486,
+            "supervisor_id": 1933,
+            "capacity": 2
+        },
+        {
+            "pid": 4487,
+            "supervisor_id": 1933,
+            "capacity": 1
+        },
+        {
+            "pid": 4490,
+            "supervisor_id": 1933,
+            "capacity": 1
+        },
+        {
+            "pid": 4491,
+            "supervisor_id": 1933,
+            "capacity": 1
+        },
+        {
+            "pid": 4492,
+            "supervisor_id": 1933,
+            "capacity": 1
+        },
+        {
+            "pid": 4584,
+            "supervisor_id": 1984,
+            "capacity": 2
+        },
+        {
+            "pid": 4567,
+            "supervisor_id": 1987,
+            "capacity": 1
+        },
+        {
+            "pid": 4568,
+            "supervisor_id": 1987,
+            "capacity": 2
+        },
+        {
+            "pid": 4569,
+            "supervisor_id": 1987,
+            "capacity": 1
+        },
+        {
+            "pid": 4394,
+            "supervisor_id": 1990,
+            "capacity": 2
+        },
+        {
+            "pid": 4395,
+            "supervisor_id": 1990,
+            "capacity": 1
+        },
+        {
+            "pid": 4396,
+            "supervisor_id": 1990,
+            "capacity": 1
+        },
+        {
+            "pid": 4564,
+            "supervisor_id": 1996,
+            "capacity": 1
+        },
+        {
+            "pid": 4573,
+            "supervisor_id": 1996,
+            "capacity": 2
+        },
+        {
+            "pid": 4576,
+            "supervisor_id": 1996,
+            "capacity": 2
+        },
+        {
+            "pid": 4578,
+            "supervisor_id": 1996,
+            "capacity": 2
+        },
+        {
+            "pid": 4439,
+            "supervisor_id": 2060,
+            "capacity": 1
+        },
+        {
+            "pid": 4440,
+            "supervisor_id": 2060,
+            "capacity": 1
+        },
+        {
+            "pid": 4441,
+            "supervisor_id": 2060,
+            "capacity": 3
+        },
+        {
+            "pid": 4480,
+            "supervisor_id": 2094,
+            "capacity": 1
+        },
+        {
+            "pid": 4481,
+            "supervisor_id": 2094,
+            "capacity": 2
+        },
+        {
+            "pid": 4548,
+            "supervisor_id": 2094,
+            "capacity": 1
+        },
+        {
+            "pid": 4488,
+            "supervisor_id": 2097,
+            "capacity": 1
+        },
+        {
+            "pid": 4496,
+            "supervisor_id": 2097,
+            "capacity": 1
+        },
+        {
+            "pid": 4475,
+            "supervisor_id": 2097,
+            "capacity": 1
+        },
+        {
+            "pid": 4602,
+            "supervisor_id": 2097,
+            "capacity": 1
+        },
+        {
+            "pid": 4603,
+            "supervisor_id": 2097,
+            "capacity": 2
+        },
+        {
+            "pid": 4459,
+            "supervisor_id": 2496,
+            "capacity": 2
+        },
+        {
+            "pid": 4469,
+            "supervisor_id": 2496,
+            "capacity": 2
+        },
+        {
+            "pid": 4437,
+            "supervisor_id": 3073,
+            "capacity": 1
+        },
+        {
+            "pid": 4465,
+            "supervisor_id": 3073,
+            "capacity": 1
+        },
+        {
+            "pid": 4466,
+            "supervisor_id": 3073,
+            "capacity": 3
+        },
+        {
+            "pid": 4467,
+            "supervisor_id": 3073,
+            "capacity": 3
+        },
+        {
+            "pid": 4468,
+            "supervisor_id": 3073,
+            "capacity": 3
+        },
+        {
+            "pid": 4380,
+            "supervisor_id": 3794,
+            "capacity": 2
+        },
+        {
+            "pid": 4381,
+            "supervisor_id": 3794,
+            "capacity": 1
+        },
+        {
+            "pid": 4382,
+            "supervisor_id": 3794,
+            "capacity": 1
+        },
+        {
+            "pid": 4503,
+            "supervisor_id": 3865,
+            "capacity": 2
+        },
+        {
+            "pid": 4504,
+            "supervisor_id": 3865,
+            "capacity": 1
+        },
+        {
+            "pid": 4505,
+            "supervisor_id": 3865,
+            "capacity": 2
+        },
+        {
+            "pid": 4550,
+            "supervisor_id": 3865,
+            "capacity": 1
+        },
+        {
+            "pid": 4587,
+            "supervisor_id": 3865,
+            "capacity": 1
+        },
+        {
+            "pid": 4571,
+            "supervisor_id": 3901,
+            "capacity": 2
+        },
+        {
+            "pid": 4579,
+            "supervisor_id": 3901,
+            "capacity": 1
+        },
+        {
+            "pid": 4390,
+            "supervisor_id": 4012,
+            "capacity": 1
+        },
+        {
+            "pid": 4559,
+            "supervisor_id": 4012,
+            "capacity": 1
+        },
+        {
+            "pid": 4442,
+            "supervisor_id": 4282,
+            "capacity": 2
+        },
+        {
+            "pid": 4448,
+            "supervisor_id": 4282,
+            "capacity": 2
+        },
+        {
+            "pid": 4449,
+            "supervisor_id": 4282,
+            "capacity": 1
+        },
+        {
+            "pid": 4454,
+            "supervisor_id": 4282,
+            "capacity": 1
+        },
+        {
+            "pid": 4525,
+            "supervisor_id": 5128,
+            "capacity": 2
+        },
+        {
+            "pid": 4589,
+            "supervisor_id": 5128,
+            "capacity": 1
+        },
+        {
+            "pid": 4593,
+            "supervisor_id": 5128,
+            "capacity": 1
+        },
+        {
+            "pid": 4523,
+            "supervisor_id": 5142,
+            "capacity": 2
+        },
+        {
+            "pid": 4524,
+            "supervisor_id": 5142,
+            "capacity": 2
+        },
+        {
+            "pid": 4528,
+            "supervisor_id": 5142,
+            "capacity": 3
+        },
+        {
+            "pid": 4499,
+            "supervisor_id": 5175,
+            "capacity": 1
+        },
+        {
+            "pid": 4500,
+            "supervisor_id": 5175,
+            "capacity": 1
+        },
+        {
+            "pid": 4501,
+            "supervisor_id": 5175,
+            "capacity": 1
+        },
+        {
+            "pid": 4502,
+            "supervisor_id": 5175,
+            "capacity": 1
+        },
+        {
+            "pid": 4474,
+            "supervisor_id": 5236,
+            "capacity": 4
+        },
+        {
+            "pid": 4391,
+            "supervisor_id": 5340,
+            "capacity": 4
+        },
+        {
+            "pid": 4392,
+            "supervisor_id": 5340,
+            "capacity": 4
+        },
+        {
+            "pid": 4393,
+            "supervisor_id": 5340,
+            "capacity": 2
+        },
+        {
+            "pid": 4513,
+            "supervisor_id": 5572,
+            "capacity": 4
+        },
+        {
+            "pid": 4425,
+            "supervisor_id": 5654,
+            "capacity": 2
+        },
+        {
+            "pid": 4426,
+            "supervisor_id": 5654,
+            "capacity": 1
+        },
+        {
+            "pid": 4427,
+            "supervisor_id": 5654,
+            "capacity": 1
+        },
+        {
+            "pid": 4537,
+            "supervisor_id": 5659,
+            "capacity": 2
+        },
+        {
+            "pid": 4538,
+            "supervisor_id": 5659,
+            "capacity": 1
+        },
+        {
+            "pid": 4539,
+            "supervisor_id": 5659,
+            "capacity": 1
+        },
+        {
+            "pid": 4597,
+            "supervisor_id": 6001,
+            "capacity": 1
+        },
+        {
+            "pid": 4399,
+            "supervisor_id": 6523,
+            "capacity": 2
+        },
+        {
+            "pid": 4418,
+            "supervisor_id": 6523,
+            "capacity": 1
+        },
+        {
+            "pid": 4419,
+            "supervisor_id": 6523,
+            "capacity": 1
+        },
+        {
+            "pid": 4388,
+            "supervisor_id": 6523,
+            "capacity": 1
+        },
+        {
+            "pid": 4411,
+            "supervisor_id": 6523,
+            "capacity": 2
+        },
+        {
+            "pid": 4526,
+            "supervisor_id": 6535,
+            "capacity": 1
+        },
+        {
+            "pid": 4527,
+            "supervisor_id": 6535,
+            "capacity": 1
+        },
+        {
+            "pid": 4402,
+            "supervisor_id": 6985,
+            "capacity": 3
+        },
+        {
+            "pid": 4403,
+            "supervisor_id": 6985,
+            "capacity": 1
+        },
+        {
+            "pid": 4477,
+            "supervisor_id": 7119,
+            "capacity": 2
+        },
+        {
+            "pid": 4478,
+            "supervisor_id": 7119,
+            "capacity": 1
+        },
+        {
+            "pid": 4479,
+            "supervisor_id": 7119,
+            "capacity": 1
+        },
+        {
+            "pid": 4551,
+            "supervisor_id": 7119,
+            "capacity": 1
+        },
+        {
+            "pid": 4586,
+            "supervisor_id": 7119,
+            "capacity": 1
+        },
+        {
+            "pid": 4482,
+            "supervisor_id": 7139,
+            "capacity": 1
+        },
+        {
+            "pid": 4483,
+            "supervisor_id": 7139,
+            "capacity": 1
+        },
+        {
+            "pid": 4484,
+            "supervisor_id": 7139,
+            "capacity": 1
+        },
+        {
+            "pid": 4450,
+            "supervisor_id": 7186,
+            "capacity": 1
+        },
+        {
+            "pid": 4451,
+            "supervisor_id": 7186,
+            "capacity": 1
+        },
+        {
+            "pid": 4452,
+            "supervisor_id": 7186,
+            "capacity": 1
+        },
+        {
+            "pid": 4453,
+            "supervisor_id": 7186,
+            "capacity": 1
+        },
+        {
+            "pid": 4543,
+            "supervisor_id": 7197,
+            "capacity": 2
+        },
+        {
+            "pid": 4549,
+            "supervisor_id": 7197,
+            "capacity": 2
+        },
+        {
+            "pid": 4570,
+            "supervisor_id": 7197,
+            "capacity": 1
+        },
+        {
+            "pid": 4612,
+            "supervisor_id": 7197,
+            "capacity": 2
+        },
+        {
+            "pid": 4585,
+            "supervisor_id": 7309,
+            "capacity": 3
+        },
+        {
+            "pid": 4604,
+            "supervisor_id": 7552,
+            "capacity": 2
+        }
+]

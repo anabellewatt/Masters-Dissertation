@@ -1,0 +1,240 @@
+﻿pid,ptitle
+4361,Operation oriented NoSQL database
+4362,Automatic Conversion Between Flavours of SQL
+4363,Auto Parallelisation Through Deep Learning
+4364,Parsing the STAC corpus
+4365,Learning to play Draughts
+4366,Generating a Compiler Backend from an Architecture Specification
+4367,Retrofitting GraphBLAS to Legacy Code
+4369,Writing a minimal AArch64 JIT compiler in C
+4370,Interactive Task Learning using Corrective Dialogue Moves
+4371,Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory
+4377,"Firewall administration, the game"
+4380,Structure learning of bipartite Ising models
+4381,Implementation of the Bayes filter algorithm
+4382,Implementation of a SAT counting algorithm
+4383,Verification of networks of real time systems
+4384,Computing multipebble simulations symbolically with BDDs
+4385,Optimizing algorithms in automata theory with Java fork join concurrency
+4387,Sharing is Caring: Implementing Virtualised Wi Fi
+4388,Investigation Vulnerabilities of Internet connected blood pressure monitors
+4389,Indoor air quality monitoring
+4390,Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions
+4391,Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery
+4392,Simultaneous Localisation and Mapping (SLAM) of The Airways in Lung Bronchoscopy
+4393,Model based Control of Continuum Robots
+4394,Learning autonomous robotic grapsing
+4395,Learning versatile dynamic motor skills for a quadruped robot
+4396,Advanced Microscopy Image Analysis for Life Science Applications
+4386,Obfuscation for Privacy preserving Syntactic Parsing
+4398,Litter: A location based Twitter app
+4399,Analysis of Differential Paths in ARX Ciphers Using ARXTools
+4400,Classifying Mathematical Articles into Their Fields
+4401,"Measure what a ""normal"" URL looks like for users"
+4403,Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images
+4402,Efficient Deep Learning for Acoustic Biodiversity Monitoring
+4405,Reimplement abstract game algorithm in Java
+4406,Pedagogically sensible lab sessions for Software Design and Modelling
+4407,MegamodelBuild
+4408,A web interface for PMark
+4410,Alternative implementations of PMark
+4411,Analysing and simplifying chord progressions
+4413,Graphical animations of some concepts in number theory
+4414,Mandelbrot Maps: Web application for exploring fractals
+4415,Pretty Printing for BNFC meta
+4416,System F in Polymorphic Blocks
+4417,Haskell Notebooks: applying Jupyter/IHaskell
+4418,Towards a Closed Formula for the Additive Differential Probability of XOR
+4419,Implementation of an Algorithm for Optimal Probability Computation Using Transition Probability Matrices
+4420,Pretty printing for first year students
+4421,Bringing the stupid computer to life
+4425,Access constraints discovery
+4426,Online relation caching for SparkSQL
+4412,Generalization in Reinforcement Learning
+4427,Implementing and Evaluating Algorithms for Constraint Shortest Paths
+4429,A workbench for element theory phonology
+4430,An integrated C/Lisp Emacs debugger
+4431,Secure file restrictions for general applications
+4432,Tracking beak and foot movements for weaver bird nest building
+4433,Estimate robot ego motion with an event based camera
+4434,Online Inverse Dynamics Learning using Sparse Gaussian Processes
+4436,Building a hexapod robot platform to test insect inspired navigation algorithms
+4437,Analysis of the DAPHNE dataset
+4438,A neural circuit to explain the bee dance
+4439,Translations between relational algebra and relational calculus
+4440,Formal semantics of the SQL language
+4441,Preservation of Codd semantics in databases with SQL nulls
+4442,Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs
+4443,Missing pitch estimation and interpolation from speech waveforms with neural networks
+4444,Automatic detection and classification of human head gestures
+4445,Natural head motion synthesis with Generative Adversarial Networks
+4446,Text driven head motion synthesis of animated agents using neural networks
+4447,Speech driven animation of human heads in conversation using neural networks
+4448,Practical Quantum Algorithms for Cryptanalysis
+4449,Quantum Algorithms for Near Term Devices: Computational Chemistry
+4452,"OK, Piet: A semantic definition for the esoteric programming language Piet"
+4453,Animatikz: A LaTeX package for animations
+4450,"Spin it, Maude! A SPIN like model checker in Maude"
+4454,Quantum Algorithms for Near Term Devices: Comparing different hardware
+4457,Tools for extracellular neural recording analysis
+4458,Machine learning for large scale extracellular neural recording analysis
+4459,Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes
+4461,A graphical workbench for experimenting with hash tables
+4462,A Backend for a Coherence Protocol Generator
+4463,Cache Coherence Protocol Library
+4464,Automatic virtual channel assignment for the ProtoGen tool
+4465,The Speckled Puppeteer
+4467,Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors
+4466,Experiments in Social Signals Analysis for COPD patients
+4468,"Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution"
+4469,Toward a Technology to Overcome Anxiety in Children with Autism
+4470,Supporting Interactive Inference in FRANK
+4471,Deep learning for robot control
+4473,Automatic Knowledge Discovery
+4474,Using AI and Machine Learning to improve Learning
+4475,Incrementing the MarkEd online marking tool with support for fairer and more efficient marking
+4476,Integrated information in a robot swarm
+4472,Control of behaviour in a pet robot
+4477,Vision for Good
+4478,Adversarial Data: When The Environment Fights Back
+4480,Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements
+4481,Sloppy passwords and security awareness: can a little nudge help?
+4479,An Interactive Tool for Ethical Thinking
+4483,Privacy context game in human agent systems
+4485,Sources of variability in neural activity
+4456,Reproducibility and provenance for neuroscientific data analysis
+4486,Topics in workflow management for an Industry 4.0 manufacturing floor
+4487,Detection of time required to find study space in the Main Library using WiFi data
+4488,Incrementing the MarkEd online marking tool with support for fairer and more efficient marking
+4490,Deploying workflows on a blockchain
+4491,Improved Workflow Execution in WorkflowFM
+4492,Extending a Linear Logic proofs as processes embedding with units
+4493,Web based blocks world experiments for studying language evolution
+4495,Developing a new web interface for the Archive of Formal Proofs
+4496,Incrementing the MarkEd online marking tool with support for good feedback
+4497,Automatic punctuation annotation using Transformers
+4498,Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation
+4499,ML driven buffer management in PostgreSQL
+4500,Hypertree decompositions
+4501,Parallel database query processing using OpenCL
+4502,An experimental study of tree based index data structures
+4504,App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)
+4505,App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)
+4503,App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)
+4506,Web color palettes using MCMC with people
+4507,Understanding font preferences using MCMC with people
+4404,A front end for the probabilistic model checker Storm
+4509,Secure mobile applications using Trusted Execution Environments
+4510,Formal analysis of E cclesia
+4511,User studies on Bitcoin wallets
+4512,Improving a formal verification tool for cyber physical systems
+4513,AI for game theory
+4514,Exploring the capabilities of the Lean interactive theorem prover
+4515,Evaluation and comparison of static software verification tools
+4516,Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device
+4517,Formal Proofs of Cryptographic Protocols
+4518,Visual tools and extensions for Attack Trees
+4519,Chase Termination for Linear Existential Rules
+4520,A Software Tool for Recognizing Rule based Ontology Languages
+4521,Query Rewritability for Rule based Ontology mediated Queries
+4522,Linear Existential Rules with Transitivity
+4523,Anonymous Messaging on a RaspberryPiNet
+4524,Optimizing mix network security parameters
+4526,Machine learning for modelling cell metabolism
+4527,A machine learning approach to model whole bacterial cells
+4528,Privacy Research Artefacts Evaluation
+4529,Apply existing prefetching techniques to TLB for large data centre applications
+4530,Firefighter games
+4531,Developing tokens for Erasure Encoding methods for protecting time streamed data
+4532,A Java IDE allowing the editing of code and UML simultaneously.
+4533,"Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+4534,implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits
+4535,reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games
+4536,Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games
+4537,Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics
+4538,Collision free motion generation using a convex optimisation on Bezier curves
+4539,Co design for robots and environments
+4541,Dynamically modelled trajectory planning for aggressive optimal control
+4542,Analysis of complex networks using Ricci Curvature
+4544,Transportation network analysis with Map Directions API data
+4545,Analysing Blockchain Protocols
+4546,Fairness characterisation of Urban services
+4547,Topological analysis of biomedical data
+4548,A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)
+4549,Task scheduling in heterogeneous ISA processing platforms
+4543,Scalable Software Messaging Layer for Multiple kernel Operating System
+4550,Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer
+4540,A BECTS Diagnosis Tool using Paediatric EEG Data
+4551,A computer assisted translator of Latin to English
+4552,Solving terms in the Lukasiewicz mu calculus.
+4553,Algorithms workbench.
+4554,Tool to assist with assessing evidence for academic misconduct.
+4555,The distribution of roots of random polynomials.
+4557,Multicore Processing Support for InfOS
+4558,Flying vehicles guided by insect navigation algorithms
+4560,Emergence of Language with Multi agent HyperNeat
+4561,Controlling a Virtual Character by 2D Videos
+4562,Synthesizing body details of crowd agents by reinforcement learning
+4563,Learning in Competitive Games
+4564,Near real time speech transcription service
+4565,Neural Network pruning for faster execution and smaller memory usage
+4567,Energy costs of Neural Nets
+4568,Learning systems biology models from data
+4569,Computational modelling of biological learning
+4559,Blockchain Ticketing System
+4570,"A ""Permissions"" System in Linux"
+4556,Neurally Guided Bayesian Learning of Programs
+4573,Developing tools for audio visual speech recognition
+4574,Mobile measurement of urban interference and spectrum utilisation patterns
+4575,Experimentation and Optimisation of Mobile Media Delivery
+4577,Analysis of media content consumption patterns and modelling mobile media delivery approaches
+4578,Unsupervised phonetic speech segmentation
+4576,Unsupervised grapheme to phoneme conversion using Word2Vec
+4579,Automatic segmentation of biomes in medium resolution satellite imagery
+4580,Recording Execution Traces through JAVA programs
+4582,Approximate haplotype calling from short read sequencing datasets
+4583,Application for the Rendering of Subdivision Surfaces
+4584,Search and recommendation techniques to enhance rich media in education
+4586,Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change
+4587,Building a Music Recommendation System
+4588,Modern Analog Computing
+4525,Developing an app for children in hospital
+4589,"A smart button for recording ""teaching moments"""
+4590,CPU Design using the RISC V Instruction Set Architecture
+4591,Data Mining Wikipedia
+4592,Food Supply Tracking through Blockchain
+4593,Exploring gamification techniques in children  ™s computer science learning
+4594,Biologically Inspired Multiagent Pursuit Evasion Models
+4595,Transcription of Music into Drum Sheets
+4596,Improving read accuracy of floppy disks using software techniques
+4597,Solving the Plumbing Problem in Web Components using Lenses
+4598,Improved navigation of recovered teletext data
+4602,Online Repository of Teaching and Learning Evaluation Approaches II
+4603,"The MarkEd tool for Marking, Feedback and Moderation II"
+4601,Database Support for Minority Language Policy Research
+4604,Extensive Evaluation of State of the Art Network Stacks
+4605,Tools for teaching Computation and Logic
+4606,A compiler (in Haskell) for FDDL
+4608,Deep Reinforcement Learning for Robot Control Tasks
+4600,Machine Learning for Stock Price Prediction
+4368,Hardware Support for JIT Compilation
+4455,Performance characterization of serverless computing
+4460,Color identification app
+4482,Representing privacy contexts in multi agent systems
+4484,A plugin that reminds you the privacy settings in online systems
+4379,Make an Amazon Alexa talk to people about privacy
+4610,Design a Visual Programming Language for Making Minecraft Server Plugins
+4360,Virtual Reality Squash Trainer
+4611,Exploiting Neural Networks using Adversarial Examples
+4571,Interpretable machine learning in healthcare
+4612,User space thread migration in Linux
+4585,A Software Tool for Providing Background Information of Posts on Social Media
+4607,Implementing Federated Learning in Tensorflow.js
+4494,Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis
+4581,Assessing dataset bias in computer vision
+4613,Exploration of Neural Symbolic AI
+4669,Performing KYC with Distributed Ledger Technology
+4670,Visual Sudoku Solver
+4671,Cancer data science and epigenetics
+4672,Fast Sequence Alignment for Merging Functions
+4673,Representation learning of Dyadic collaborative Manipulation systems

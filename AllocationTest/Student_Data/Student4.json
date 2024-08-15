@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "b18518e1-5695-4f9c-8d58-ac0b7528b0cd"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          {
+            "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+          },
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "Analysing and simplifying chord progressions"
+          },
+          {
+            "S": "Graphical animations of some concepts in number theory"
+          },
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "Missing pitch estimation and interpolation from speech waveforms with neural networks"
+          },
+          {
+            "S": "Chase Termination for Linear Existential Rules"
+          },
+          {
+            "S": "Representing privacy contexts in multi agent systems"
+          },
+          {
+            "S": "Building a hexapod robot platform to test insect inspired navigation algorithms"
+          },
+          {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          },
+          {
+            "S": "An Interactive Tool for Ethical Thinking"
+          },
+          {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Online Inverse Dynamics Learning using Sparse Gaussian Processes"
+          },
+          {
+            "S": "Auto Parallelisation Through Deep Learning"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          },
+          {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          {
+            "S": "MegamodelBuild"
+          },
+          {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          {
+            "S": "Fairness characterisation of Urban services"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:21"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Access constraints discovery"
+          },
+          {
+            "S": "Online relation caching for SparkSQL"
+          },
+          {
+            "S": "Web color palettes using MCMC with people"
+          },
+          {
+            "S": "Food Supply Tracking through Blockchain"
+          },
+          {
+            "S": "The MarkEd tool for Marking, Feedback and Moderation II"
+          },
+          {
+            "S": "Natural head motion synthesis with Generative Adversarial Networks"
+          },
+          {
+            "S": "Application for the Rendering of Subdivision Surfaces"
+          },
+          {
+            "S": "Structure learning of bipartite Ising models"
+          },
+          {
+            "S": "Tools for extracellular neural recording analysis"
+          },
+          {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          },
+          {
+            "S": "Solving the Plumbing Problem in Web Components using Lenses"
+          },
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "Spin it, Maude! A SPIN like model checker in Maude"
+          },
+          {
+            "S": "Task scheduling in heterogeneous ISA processing platforms"
+          },
+          {
+            "S": "Verification of networks of real time systems"
+          },
+          {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          {
+            "S": "Flying vehicles guided by insect navigation algorithms"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Missing pitch estimation and interpolation from speech waveforms with neural networks"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:03:19"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Easy to navigate, some problems of displaying properly specifically on the grouping page."
+          },
+          "question3": {
+            "S": "First check them to instantly eliminate ones that the person does not want to do, then rank the ones they want to do, then score them. letting them get rid of a few options at the start makes ranking them easier, then using the score method lets them show if there are any that they equally do&#47;don’t want to do. Using a combination of methods would be more efficient than just trying to order the methods from best to worst then picking the best one."
+          },
+          "question4": {
+            "S": "N&#47;A"
+          },
+          "question5": {
+            "S": "instead of only using the rank method at the end page (for score, rank, group and check) you should also use the scoring method, as some people may find two of these methods equally good. also when working with a smaller number of things to rank it makes it seem like there is a big jump in how good each of the methods are as you go down the ranking. the score method would be able to show numerically how close each of the methods are in terms of how good they are."
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Check Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Rank Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+      },
+      {
+        "S": "Automatic detection and classification of human head gestures"
+      },
+      {
+        "S": "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+      },
+      {
+        "S": "Deep learning for robot control"
+      },
+      {
+        "S": "Vision for Good"
+      },
+      {
+        "S": "Building a Music Recommendation System"
+      },
+      {
+        "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+      },
+      {
+        "S": "Tools for teaching Computation and Logic"
+      },
+      {
+        "S": "Extending a Linear Logic proofs as processes embedding with units"
+      },
+      {
+        "S": "Task scheduling in heterogeneous ISA processing platforms"
+      },
+      {
+        "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+      },
+      {
+        "S": "A graphical workbench for experimenting with hash tables"
+      },
+      {
+        "S": "Fairness characterisation of Urban services"
+      },
+      {
+        "S": "Translations between relational algebra and relational calculus"
+      },
+      {
+        "S": "Cache Coherence Protocol Library"
+      },
+      {
+        "S": "Optimizing mix network security parameters"
+      },
+      {
+        "S": "Pedagogically sensible lab sessions for Software Design and Modelling"
+      },
+      {
+        "S": "Scalable Software Messaging Layer for Multiple kernel Operating System"
+      },
+      {
+        "S": "Modern Analog Computing"
+      },
+      {
+        "S": "Formal semantics of the SQL language"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:04:50"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic detection and classification of human head gestures"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Deep learning for robot control"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Vision for Good"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Building a Music Recommendation System"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Tools for teaching Computation and Logic"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Task scheduling in heterogeneous ISA processing platforms"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Fairness characterisation of Urban services"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Translations between relational algebra and relational calculus"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Cache Coherence Protocol Library"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Optimizing mix network security parameters"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pedagogically sensible lab sessions for Software Design and Modelling"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Scalable Software Messaging Layer for Multiple kernel Operating System"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Modern Analog Computing"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Formal semantics of the SQL language"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:02:42"
+  }
+}

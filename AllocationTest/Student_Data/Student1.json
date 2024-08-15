@@ -1,0 +1,473 @@
+{
+    "UoEProjectSurvey2024": {
+      "S": "9bdb85a3-89f3-4fe2-a646-fb4fbef458d2"
+    },
+    "checkedProjects": {
+      "M": {
+        "approved": {
+          "L": [
+            {
+              "S": "Integrated information in a robot swarm"
+            },
+            {
+              "S": "Neural Network pruning for faster execution and smaller memory usage"
+            },
+            {
+              "S": "Online Inverse Dynamics Learning using Sparse Gaussian Processes"
+            },
+            {
+              "S": "Firefighter games"
+            },
+            {
+              "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+            },
+            {
+              "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+            },
+            {
+              "S": "Fast Sequence Alignment for Merging Functions"
+            }
+          ]
+        },
+        "disapproved": {
+          "L": [
+            {
+              "S": "Evaluation and comparison of static software verification tools"
+            },
+            {
+              "S": "Exploring the capabilities of the Lean interactive theorem prover"
+            },
+            {
+              "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+            },
+            {
+              "S": "Estimate robot ego motion with an event based camera"
+            },
+            {
+              "S": "Preservation of Codd semantics in databases with SQL nulls"
+            },
+            {
+              "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)"
+            },
+            {
+              "S": "The distribution of roots of random polynomials."
+            },
+            {
+              "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+            },
+            {
+              "S": "Solving the Plumbing Problem in Web Components using Lenses"
+            },
+            {
+              "S": "A machine learning approach to model whole bacterial cells"
+            },
+            {
+              "S": "Pretty printing for first year students"
+            },
+            {
+              "S": "Analysis of complex networks using Ricci Curvature"
+            },
+            {
+              "S": "Investigation Vulnerabilities of Internet connected blood pressure monitors"
+            }
+          ]
+        }
+      }
+    },
+    "checkProjectsTime": {
+      "S": "00:12:39"
+    },
+    "groupProjects": {
+      "M": {
+        "dont-want": {
+          "L": [
+            {
+              "S": "Graphical animations of some concepts in number theory"
+            },
+            {
+              "S": "Tool to assist with assessing evidence for academic misconduct."
+            },
+            {
+              "S": "Unsupervised phonetic speech segmentation"
+            },
+            {
+              "S": "Litter: A location based Twitter app"
+            },
+            {
+              "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+            },
+            {
+              "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+            },
+            {
+              "S": "Detection of time required to find study space in the Main Library using WiFi data"
+            },
+            {
+              "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+            }
+          ]
+        },
+        "not-qualified": {
+          "L": [
+            {
+              "S": "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis"
+            }
+          ]
+        },
+        "okay-with": {
+          "L": [
+            {
+              "S": "Building a hexapod robot platform to test insect inspired navigation algorithms"
+            },
+            {
+              "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+            },
+            {
+              "S": "Using AI and Machine Learning to improve Learning"
+            },
+            {
+              "S": "Interactive Task Learning using Corrective Dialogue Moves"
+            },
+            {
+              "S": "Improving a formal verification tool for cyber physical systems"
+            },
+            {
+              "S": "A neural circuit to explain the bee dance"
+            },
+            {
+              "S": "Learning autonomous robotic grapsing"
+            },
+            {
+              "S": "Approximate haplotype calling from short read sequencing datasets"
+            },
+            {
+              "S": "Online Inverse Dynamics Learning using Sparse Gaussian Processes"
+            }
+          ]
+        },
+        "really-want": {
+          "L": [
+            {
+              "S": "Parallel database query processing using OpenCL"
+            },
+            {
+              "S": "Cache Coherence Protocol Library"
+            }
+          ]
+        }
+      }
+    },
+    "groupProjectsTime": {
+      "S": "00:13:36"
+    },
+    "questions": {
+      "M": {
+        "answers": {
+          "M": {
+            "question2": {
+              "S": "Yes, it was."
+            },
+            "question3": {
+              "S": "Grouping, with scoring (or optional ranking) within groups, could better represent my sentiment about the projects. Simple project ranking forces an ordinal ordering on projects that I feel the same about. Grouping allows me to bucket the options more freely without having to place one over another. While simple scoring could achieve this effect, it&#39;s not very user-friendly, because it&#39;s hard to keep track of scores, and often I find myself going back to change the scores on projects I&#39;ve assigned before as I work through the projects list. Grouping allows projects to be progressively categorised as I work through the list, which is helpful. However, simple grouping does not represent well the granularity of sentiment, e.g. &quot;Separate from the project&#39;s I&#39;m okay with, I really want both projects A and B, but want A more than B.&quot; So a combination of grouping and scoring could be useful here -- group A &amp; B into &quot;I really want this project&quot;, and "
+            },
+            "question4": {
+              "S": "I experienced a ranking system that considers the top 5 choices and tries to give me my first choice. I received my first choice, and was satisfied with the outcome. But I was forced to ordinally rank projects that I felt the same about, which was a bummer."
+            },
+            "question5": {
+              "S": "Nope"
+            }
+          }
+        },
+        "rankedMethods": {
+          "L": [
+            {
+              "S": "Group Projects"
+            },
+            {
+              "S": "Rank Projects"
+            },
+            {
+              "S": "Score Projects"
+            },
+            {
+              "S": "Check Projects"
+            }
+          ]
+        }
+      }
+    },
+    "rankedProjects": {
+      "L": [
+        {
+          "S": "Generating a Compiler Backend from an Architecture Specification"
+        },
+        {
+          "S": "User space thread migration in Linux"
+        },
+        {
+          "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+        },
+        {
+          "S": "Cache Coherence Protocol Library"
+        },
+        {
+          "S": "Transportation network analysis with Map Directions API data"
+        },
+        {
+          "S": "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device"
+        },
+        {
+          "S": "Writing a minimal AArch64 JIT compiler in C"
+        },
+        {
+          "S": "Analysing and simplifying chord progressions"
+        },
+        {
+          "S": "Near real time speech transcription service"
+        },
+        {
+          "S": "Speech driven animation of human heads in conversation using neural networks"
+        },
+        {
+          "S": "Control of behaviour in a pet robot"
+        },
+        {
+          "S": "Learning versatile dynamic motor skills for a quadruped robot"
+        },
+        {
+          "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+        },
+        {
+          "S": "Energy costs of Neural Nets"
+        },
+        {
+          "S": "Query Rewritability for Rule based Ontology mediated Queries"
+        },
+        {
+          "S": "An Interactive Tool for Ethical Thinking"
+        },
+        {
+          "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+        },
+        {
+          "S": "Extending a Linear Logic proofs as processes embedding with units"
+        },
+        {
+          "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+        },
+        {
+          "S": "Understanding font preferences using MCMC with people"
+        }
+      ]
+    },
+    "rankedProjectsTime": {
+      "S": "00:10:27"
+    },
+    "scoreProjects": {
+      "L": [
+        {
+          "M": {
+            "name": {
+              "S": "Generating a Compiler Backend from an Architecture Specification"
+            },
+            "score": {
+              "N": "9"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "User space thread migration in Linux"
+            },
+            "score": {
+              "N": "9"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+            },
+            "score": {
+              "N": "9"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Cache Coherence Protocol Library"
+            },
+            "score": {
+              "N": "8"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Transportation network analysis with Map Directions API data"
+            },
+            "score": {
+              "N": "7"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device"
+            },
+            "score": {
+              "N": "7"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Writing a minimal AArch64 JIT compiler in C"
+            },
+            "score": {
+              "N": "7"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Analysing and simplifying chord progressions"
+            },
+            "score": {
+              "N": "6"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Near real time speech transcription service"
+            },
+            "score": {
+              "N": "6"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Speech driven animation of human heads in conversation using neural networks"
+            },
+            "score": {
+              "N": "6"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Control of behaviour in a pet robot"
+            },
+            "score": {
+              "N": "5"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Learning versatile dynamic motor skills for a quadruped robot"
+            },
+            "score": {
+              "N": "5"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+            },
+            "score": {
+              "N": "2"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Energy costs of Neural Nets"
+            },
+            "score": {
+              "N": "2"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Query Rewritability for Rule based Ontology mediated Queries"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "An Interactive Tool for Ethical Thinking"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Extending a Linear Logic proofs as processes embedding with units"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        },
+        {
+          "M": {
+            "name": {
+              "S": "Understanding font preferences using MCMC with people"
+            },
+            "score": {
+              "N": "0"
+            }
+          }
+        }
+      ]
+    },
+    "scoreProjectsTime": {
+      "S": "00:02:07"
+    }
+  }

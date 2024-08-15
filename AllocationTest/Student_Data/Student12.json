@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "61947cce-6aeb-4725-8a8f-094cba3ef128"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device"
+          },
+          {
+            "S": "Fast Sequence Alignment for Merging Functions"
+          },
+          {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          {
+            "S": "Search and recommendation techniques to enhance rich media in education"
+          },
+          {
+            "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+          },
+          {
+            "S": "Hypertree decompositions"
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+          },
+          {
+            "S": "Formal Proofs of Cryptographic Protocols"
+          },
+          {
+            "S": "Further exploration of Euler's Foundations of Differential Calculus in Isabelle/HOL using nonstandard analysis"
+          },
+          {
+            "S": "Tools for teaching Computation and Logic"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Representing privacy contexts in multi agent systems"
+          },
+          {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          {
+            "S": "Data Mining Wikipedia"
+          },
+          {
+            "S": "Virtual Reality Squash Trainer"
+          },
+          {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          },
+          {
+            "S": "Improved Workflow Execution in WorkflowFM"
+          },
+          {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          {
+            "S": "Scalable Software Messaging Layer for Multiple kernel Operating System"
+          },
+          {
+            "S": "Extensive Evaluation of State of the Art Network Stacks"
+          },
+          {
+            "S": "Experiments in Social Signals Analysis for COPD patients"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:00:31"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          },
+          {
+            "S": "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements"
+          },
+          {
+            "S": "Tools for extracellular neural recording analysis"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Alternative implementations of PMark"
+          },
+          {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          {
+            "S": "A web interface for PMark"
+          },
+          {
+            "S": "Solving terms in the Lukasiewicz mu calculus."
+          },
+          {
+            "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+          },
+          {
+            "S": "Analysing Blockchain Protocols"
+          },
+          {
+            "S": "Optimizing mix network security parameters"
+          },
+          {
+            "S": "Secure file restrictions for general applications"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+          },
+          {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          {
+            "S": "System F in Polymorphic Blocks"
+          },
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "Bringing the stupid computer to life"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Adversarial Data: When The Environment Fights Back"
+          },
+          {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          },
+          {
+            "S": "Learning to play Draughts"
+          },
+          {
+            "S": "Visual Sudoku Solver"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:00:50"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yes"
+          },
+          "question3": {
+            "S": "I liked the scoring and grouping ones. Ranking was a bit too difficult without numbers associated, for me."
+          },
+          "question4": {
+            "S": "I thought the process was ok but took far too long to get the results and having to individually meet with supervisors even for projects that weren&#39;t in my top 3 for example was quite a waste of time."
+          },
+          "question5": {
+            "S": "Given the large number of projects available in the real system, I think going one-by-one and giving each a numerical ranking, ordering etc. is too time consuming. Perhaps you can only rank the ones you have expressed interest in to begin with to speed that process up"
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics"
+      },
+      {
+        "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+      },
+      {
+        "S": "Practical Quantum Algorithms for Cryptanalysis"
+      },
+      {
+        "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+      },
+      {
+        "S": "Hypertree decompositions"
+      },
+      {
+        "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+      },
+      {
+        "S": "MegamodelBuild"
+      },
+      {
+        "S": "Application for the Rendering of Subdivision Surfaces"
+      },
+      {
+        "S": "Tools for teaching Computation and Logic"
+      },
+      {
+        "S": "Analysis of complex networks using Ricci Curvature"
+      },
+      {
+        "S": "Parallel database query processing using OpenCL"
+      },
+      {
+        "S": "Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions"
+      },
+      {
+        "S": "Machine learning for large scale extracellular neural recording analysis"
+      },
+      {
+        "S": "Generalization in Reinforcement Learning"
+      },
+      {
+        "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+      },
+      {
+        "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+      },
+      {
+        "S": "Alternative implementations of PMark"
+      },
+      {
+        "S": "Performance characterization of serverless computing"
+      },
+      {
+        "S": "Multicore Processing Support for InfOS"
+      },
+      {
+        "S": "Firewall administration, the game"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:01:05"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Practical Quantum Algorithms for Cryptanalysis"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Hypertree decompositions"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "MegamodelBuild"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Application for the Rendering of Subdivision Surfaces"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Tools for teaching Computation and Logic"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Parallel database query processing using OpenCL"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine learning for large scale extracellular neural recording analysis"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Alternative implementations of PMark"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Performance characterization of serverless computing"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Multicore Processing Support for InfOS"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Firewall administration, the game"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:00:40"
+  }
+}

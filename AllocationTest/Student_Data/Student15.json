@@ -1,0 +1,470 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "05ec5444-e9c5-4932-8b76-83279db92cb0"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Tools for teaching Computation and Logic"
+          },
+          {
+            "S": "A \"Permissions\" System in Linux"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)"
+          },
+          {
+            "S": "Graphical animations of some concepts in number theory"
+          },
+          {
+            "S": "Design a Visual Programming Language for Making Minecraft Server Plugins"
+          },
+          {
+            "S": "Computational modelling of biological learning"
+          },
+          {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          {
+            "S": "Vision for Good"
+          },
+          {
+            "S": "Visual tools and extensions for Attack Trees"
+          },
+          {
+            "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+          },
+          {
+            "S": "Building a Music Recommendation System"
+          },
+          {
+            "S": "Access constraints discovery"
+          },
+          {
+            "S": "Fairness characterisation of Urban services"
+          },
+          {
+            "S": "Implementation of the Bayes filter algorithm"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Improved navigation of recovered teletext data"
+          },
+          {
+            "S": "Pretty Printing for BNFC meta"
+          },
+          {
+            "S": "Privacy context game in human agent systems"
+          },
+          {
+            "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:45"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Classifying Mathematical Articles into Their Fields"
+          },
+          {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          {
+            "S": "Adversarial Data: When The Environment Fights Back"
+          },
+          {
+            "S": "Hypertree decompositions"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          },
+          {
+            "S": "Mandelbrot Maps: Web application for exploring fractals"
+          },
+          {
+            "S": "Improving a formal verification tool for cyber physical systems"
+          },
+          {
+            "S": "Blockchain Ticketing System"
+          },
+          {
+            "S": "Litter: A location based Twitter app"
+          },
+          {
+            "S": "Sharing is Caring: Implementing Virtualised Wi Fi"
+          },
+          {
+            "S": "Tools for extracellular neural recording analysis"
+          },
+          {
+            "S": "Secure mobile applications using Trusted Execution Environments"
+          },
+          {
+            "S": "A computer assisted translator of Latin to English"
+          },
+          {
+            "S": "Developing an app for children in hospital"
+          },
+          {
+            "S": "Learning to play Draughts"
+          },
+          {
+            "S": "Topological analysis of biomedical data"
+          },
+          {
+            "S": "Analysing Blockchain Protocols"
+          },
+          {
+            "S": "Recording Execution Traces through JAVA programs"
+          },
+          {
+            "S": "Near real time speech transcription service"
+          },
+          {
+            "S": "Exploring the capabilities of the Lean interactive theorem prover"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": []
+      },
+      "okay-with": {
+        "L": []
+      },
+      "really-want": {
+        "L": []
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:00:24"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "It was fairly easy to navigate, but I did have technical issues with the Group Projects section, where nothing showed up and I just had to press submit anyway."
+          },
+          "question3": {
+            "S": "N&#47;A"
+          },
+          "question4": {
+            "S": "N&#47;A"
+          },
+          "question5": {
+            "S": "N&#47;A"
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Check Projects"
+          },
+          {
+            "S": "Group Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "A machine learning approach to model whole bacterial cells"
+      },
+      {
+        "S": "Learning autonomous robotic grapsing"
+      },
+      {
+        "S": "Synthesizing body details of crowd agents by reinforcement learning"
+      },
+      {
+        "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+      },
+      {
+        "S": "Topological analysis of biomedical data"
+      },
+      {
+        "S": "Sources of variability in neural activity"
+      },
+      {
+        "S": "A graphical workbench for experimenting with hash tables"
+      },
+      {
+        "S": "Design a Visual Programming Language for Making Minecraft Server Plugins"
+      },
+      {
+        "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+      },
+      {
+        "S": "Parallel database query processing using OpenCL"
+      },
+      {
+        "S": "User space thread migration in Linux"
+      },
+      {
+        "S": "Transcription of Music into Drum Sheets"
+      },
+      {
+        "S": "Preservation of Codd semantics in databases with SQL nulls"
+      },
+      {
+        "S": "Privacy context game in human agent systems"
+      },
+      {
+        "S": "Extensive Evaluation of State of the Art Network Stacks"
+      },
+      {
+        "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+      },
+      {
+        "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+      },
+      {
+        "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+      },
+      {
+        "S": "Developing an app for children in hospital"
+      },
+      {
+        "S": "Parsing the STAC corpus"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:04:40"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "A machine learning approach to model whole bacterial cells"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Learning autonomous robotic grapsing"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Synthesizing body details of crowd agents by reinforcement learning"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Topological analysis of biomedical data"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sources of variability in neural activity"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Design a Visual Programming Language for Making Minecraft Server Plugins"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Parallel database query processing using OpenCL"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "User space thread migration in Linux"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Privacy context game in human agent systems"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Extensive Evaluation of State of the Art Network Stacks"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Developing an app for children in hospital"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Parsing the STAC corpus"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:34"
+  }
+}

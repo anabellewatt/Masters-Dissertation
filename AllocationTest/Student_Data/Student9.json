@@ -1,0 +1,472 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "6e61211f-d265-4639-89f0-37661161669f"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "The MarkEd tool for Marking, Feedback and Moderation II"
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          {
+            "S": "Firewall administration, the game"
+          },
+          {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          {
+            "S": "Performance characterization of serverless computing"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          },
+          {
+            "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Web color palettes using MCMC with people"
+          },
+          {
+            "S": "Performing KYC with Distributed Ledger Technology"
+          },
+          {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          {
+            "S": "Fast Sequence Alignment for Merging Functions"
+          },
+          {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          },
+          {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "Litter: A location based Twitter app"
+          },
+          {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          {
+            "S": "Using AI and Machine Learning to improve Learning"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:00:40"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)"
+          },
+          {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          {
+            "S": "Deep Reinforcement Learning for Robot Control Tasks"
+          },
+          {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          {
+            "S": "Developing an app for children in hospital"
+          },
+          {
+            "S": "Exploiting Neural Networks using Adversarial Examples"
+          },
+          {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          {
+            "S": "Vision for Good"
+          },
+          {
+            "S": "Formal analysis of E cclesia"
+          },
+          {
+            "S": "Automatic segmentation of biomes in medium resolution satellite imagery"
+          },
+          {
+            "S": "Recording Execution Traces through JAVA programs"
+          },
+          {
+            "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+          },
+          {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          {
+            "S": "Representing privacy contexts in multi agent systems"
+          },
+          {
+            "S": "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          {
+            "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": []
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Improved Workflow Execution in WorkflowFM"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:00:22"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": ""
+          },
+          "question3": {
+            "S": ""
+          },
+          "question4": {
+            "S": ""
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Secure file restrictions for general applications"
+      },
+      {
+        "S": "A Backend for a Coherence Protocol Generator"
+      },
+      {
+        "S": "Automatic virtual channel assignment for the ProtoGen tool"
+      },
+      {
+        "S": "Extending a Linear Logic proofs as processes embedding with units"
+      },
+      {
+        "S": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+      },
+      {
+        "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+      },
+      {
+        "S": "The Speckled Puppeteer"
+      },
+      {
+        "S": "A web interface for PMark"
+      },
+      {
+        "S": "Data Mining Wikipedia"
+      },
+      {
+        "S": "Model based Control of Continuum Robots"
+      },
+      {
+        "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)"
+      },
+      {
+        "S": "Litter: A location based Twitter app"
+      },
+      {
+        "S": "Natural head motion synthesis with Generative Adversarial Networks"
+      },
+      {
+        "S": "Web based blocks world experiments for studying language evolution"
+      },
+      {
+        "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+      },
+      {
+        "S": "Machine learning for large scale extracellular neural recording analysis"
+      },
+      {
+        "S": "Vision for Good"
+      },
+      {
+        "S": "User studies on Bitcoin wallets"
+      },
+      {
+        "S": "Blockchain Ticketing System"
+      },
+      {
+        "S": "Performing KYC with Distributed Ledger Technology"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:01:44"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Secure file restrictions for general applications"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A Backend for a Coherence Protocol Generator"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic virtual channel assignment for the ProtoGen tool"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementing and Evaluating Algorithms for Constraint Shortest Paths"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "The Speckled Puppeteer"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A web interface for PMark"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Data Mining Wikipedia"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Model based Control of Continuum Robots"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Litter: A location based Twitter app"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Natural head motion synthesis with Generative Adversarial Networks"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Web based blocks world experiments for studying language evolution"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine learning for large scale extracellular neural recording analysis"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Vision for Good"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "User studies on Bitcoin wallets"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Blockchain Ticketing System"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Performing KYC with Distributed Ledger Technology"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:33"
+  }
+}

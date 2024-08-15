@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "59b095a3-7682-49ce-8152-d1be7295ab46"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Approximate haplotype calling from short read sequencing datasets"
+          },
+          {
+            "S": "Exploring gamification techniques in children  ™s computer science learning"
+          },
+          {
+            "S": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities"
+          },
+          {
+            "S": "Mobile measurement of urban interference and spectrum utilisation patterns"
+          },
+          {
+            "S": "Fast Sequence Alignment for Merging Functions"
+          },
+          {
+            "S": "The distribution of roots of random polynomials."
+          },
+          {
+            "S": "Scalable Software Messaging Layer for Multiple kernel Operating System"
+          },
+          {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          },
+          {
+            "S": "Structure learning of bipartite Ising models"
+          },
+          {
+            "S": "A front end for the probabilistic model checker Storm"
+          },
+          {
+            "S": "Experimentation and Optimisation of Mobile Media Delivery"
+          },
+          {
+            "S": "Recording Execution Traces through JAVA programs"
+          },
+          {
+            "S": "Energy costs of Neural Nets"
+          },
+          {
+            "S": "Privacy context game in human agent systems"
+          },
+          {
+            "S": "Model based Control of Continuum Robots"
+          },
+          {
+            "S": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:05:03"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Chase Termination for Linear Existential Rules"
+          },
+          {
+            "S": "Implementing Federated Learning in Tensorflow.js"
+          },
+          {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)"
+          },
+          {
+            "S": "Developing tools for audio visual speech recognition"
+          },
+          {
+            "S": "Model based Control of Continuum Robots"
+          },
+          {
+            "S": "Machine learning for large scale extracellular neural recording analysis"
+          },
+          {
+            "S": "The distribution of roots of random polynomials."
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Blockchain Ticketing System"
+          },
+          {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          {
+            "S": "Apply existing prefetching techniques to TLB for large data centre applications"
+          },
+          {
+            "S": "Hypertree decompositions"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Missing pitch estimation and interpolation from speech waveforms with neural networks"
+          },
+          {
+            "S": "Fairness characterisation of Urban services"
+          },
+          {
+            "S": "Exploring gamification techniques in children  ™s computer science learning"
+          },
+          {
+            "S": "Control of behaviour in a pet robot"
+          },
+          {
+            "S": "Transcription of Music into Drum Sheets"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Web based blocks world experiments for studying language evolution"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:17:17"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "No. It did not let me view the projects on my phone so I had to switch to my laptop, which allowed me to rank, score, and check projects, but it only let me group projects if I had no more than 3 projects in each group."
+          },
+          "question3": {
+            "S": ""
+          },
+          "question4": {
+            "S": ""
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Text driven head motion synthesis of animated agents using neural networks"
+      },
+      {
+        "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+      },
+      {
+        "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+      },
+      {
+        "S": "Algorithms workbench."
+      },
+      {
+        "S": "Missing pitch estimation and interpolation from speech waveforms with neural networks"
+      },
+      {
+        "S": "A Software Tool for Recognizing Rule based Ontology Languages"
+      },
+      {
+        "S": "Automatic Knowledge Discovery"
+      },
+      {
+        "S": "Implementation of a SAT counting algorithm"
+      },
+      {
+        "S": "ML driven buffer management in PostgreSQL"
+      },
+      {
+        "S": "Machine learning for modelling cell metabolism"
+      },
+      {
+        "S": "Evaluation and comparison of static software verification tools"
+      },
+      {
+        "S": "A Backend for a Coherence Protocol Generator"
+      },
+      {
+        "S": "Multicore Processing Support for InfOS"
+      },
+      {
+        "S": "CPU Design using the RISC V Instruction Set Architecture"
+      },
+      {
+        "S": "An Interactive Tool for Ethical Thinking"
+      },
+      {
+        "S": "User space thread migration in Linux"
+      },
+      {
+        "S": "Color identification app"
+      },
+      {
+        "S": "Co design for robots and environments"
+      },
+      {
+        "S": "Classifying Mathematical Articles into Their Fields"
+      },
+      {
+        "S": "A web interface for PMark"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:16:03"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Text driven head motion synthesis of animated agents using neural networks"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Algorithms workbench."
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Missing pitch estimation and interpolation from speech waveforms with neural networks"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A Software Tool for Recognizing Rule based Ontology Languages"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic Knowledge Discovery"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "ML driven buffer management in PostgreSQL"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine learning for modelling cell metabolism"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Evaluation and comparison of static software verification tools"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A Backend for a Coherence Protocol Generator"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Multicore Processing Support for InfOS"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "An Interactive Tool for Ethical Thinking"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "User space thread migration in Linux"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Color identification app"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Co design for robots and environments"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Classifying Mathematical Articles into Their Fields"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A web interface for PMark"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:04:28"
+  }
+}

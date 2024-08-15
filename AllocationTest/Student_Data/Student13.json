@@ -1,0 +1,472 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "acd246e4-fff3-4f96-b7b3-2924cd96e5cc"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+          },
+          {
+            "S": "Parsing the STAC corpus"
+          },
+          {
+            "S": "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device"
+          },
+          {
+            "S": "Natural head motion synthesis with Generative Adversarial Networks"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Solving terms in the Lukasiewicz mu calculus."
+          },
+          {
+            "S": "Cancer data science and epigenetics"
+          },
+          {
+            "S": "Structure learning of bipartite Ising models"
+          },
+          {
+            "S": "A computer assisted translator of Latin to English"
+          },
+          {
+            "S": "Interpretable machine learning in healthcare"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Evaluation and comparison of static software verification tools"
+          },
+          {
+            "S": "User studies on Bitcoin wallets"
+          },
+          {
+            "S": "Modern Analog Computing"
+          },
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+          },
+          {
+            "S": "Hardware Support for JIT Compilation"
+          },
+          {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          {
+            "S": "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          },
+          {
+            "S": "MegamodelBuild"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:03:16"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Measure what a \"normal\" URL looks like for users"
+          },
+          {
+            "S": "Solving the Plumbing Problem in Web Components using Lenses"
+          },
+          {
+            "S": "A graphical workbench for experimenting with hash tables"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)"
+          },
+          {
+            "S": "The Speckled Puppeteer"
+          },
+          {
+            "S": "A compiler (in Haskell) for FDDL"
+          },
+          {
+            "S": "A web interface for PMark"
+          },
+          {
+            "S": "Tools for teaching Computation and Logic"
+          },
+          {
+            "S": "Web based blocks world experiments for studying language evolution"
+          },
+          {
+            "S": "Animatikz: A LaTeX package for animations"
+          },
+          {
+            "S": "Hypertree decompositions"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Cache Coherence Protocol Library"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "ML driven buffer management in PostgreSQL"
+          },
+          {
+            "S": "Indoor air quality monitoring"
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          {
+            "S": "Control of behaviour in a pet robot"
+          }
+        ]
+      },
+      "really-want": {
+        "L": []
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:05:52"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "The website was generally easy to navigate, however it would be useful to have a tooltip which can display the information about the current section again as I wanted to recap the rules in the Score Projects section. Also, it would&#39;ve been convenient if you could click to the side of the project information pop-up window to close it, instead of having to click on the &quot;x&quot; at the top."
+          },
+          "question3": {
+            "S": ""
+          },
+          "question4": {
+            "S": "It was a bit difficult to sort through the projects given how many there were (not that the variety and number of projects is a bad thing, it just makes searching difficult). It would&#39;ve been quite easy to miss projects which I might&#39;ve found interesting if I didn&#39;t go through them one by one. I was happy with the project I received, but because it was quite a niche area, very few people had applied for the project I got, which (probably) made it a lot more likely for me to get it"
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Neural Network pruning for faster execution and smaller memory usage"
+      },
+      {
+        "S": "Neurally Guided Bayesian Learning of Programs"
+      },
+      {
+        "S": "Adversarial Data: When The Environment Fights Back"
+      },
+      {
+        "S": "Analysis of the DAPHNE dataset"
+      },
+      {
+        "S": "Co design for robots and environments"
+      },
+      {
+        "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+      },
+      {
+        "S": "A front end for the probabilistic model checker Storm"
+      },
+      {
+        "S": "Database Support for Minority Language Policy Research"
+      },
+      {
+        "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+      },
+      {
+        "S": "Understanding font preferences using MCMC with people"
+      },
+      {
+        "S": "Computing multipebble simulations symbolically with BDDs"
+      },
+      {
+        "S": "Chase Termination for Linear Existential Rules"
+      },
+      {
+        "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+      },
+      {
+        "S": "Developing a new web interface for the Archive of Formal Proofs"
+      },
+      {
+        "S": "Improving read accuracy of floppy disks using software techniques"
+      },
+      {
+        "S": "Performance characterization of serverless computing"
+      },
+      {
+        "S": "Cache Coherence Protocol Library"
+      },
+      {
+        "S": "Automatic virtual channel assignment for the ProtoGen tool"
+      },
+      {
+        "S": "Analysing Blockchain Protocols"
+      },
+      {
+        "S": "Improved Workflow Execution in WorkflowFM"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:12:46"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Adversarial Data: When The Environment Fights Back"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of the DAPHNE dataset"
+          },
+          "score": {
+            "N": "8"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Co design for robots and environments"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A front end for the probabilistic model checker Storm"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Chase Termination for Linear Existential Rules"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Optimizing algorithms in automata theory with Java fork join concurrency"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Developing a new web interface for the Archive of Formal Proofs"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improving read accuracy of floppy disks using software techniques"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Performance characterization of serverless computing"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Cache Coherence Protocol Library"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic virtual channel assignment for the ProtoGen tool"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysing Blockchain Protocols"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improved Workflow Execution in WorkflowFM"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:02:10"
+  }
+}

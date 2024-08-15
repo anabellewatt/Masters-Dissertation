@@ -1,0 +1,472 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "51c03c40-b930-4b61-ae67-75e6685a46f6"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Exploring gamification techniques in children  ™s computer science learning"
+          },
+          {
+            "S": "Machine Learning for Stock Price Prediction"
+          },
+          {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          },
+          {
+            "S": "User studies on Bitcoin wallets"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Online Repository of Teaching and Learning Evaluation Approaches II"
+          },
+          {
+            "S": "Optimizing mix network security parameters"
+          },
+          {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          {
+            "S": "Secure mobile applications using Trusted Execution Environments"
+          },
+          {
+            "S": "Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions"
+          },
+          {
+            "S": "Spin it, Maude! A SPIN like model checker in Maude"
+          },
+          {
+            "S": "Analysing Blockchain Protocols"
+          },
+          {
+            "S": "Topological analysis of biomedical data"
+          },
+          {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          {
+            "S": "A neural circuit to explain the bee dance"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)"
+          },
+          {
+            "S": "Task scheduling in heterogeneous ISA processing platforms"
+          },
+          {
+            "S": "Firewall administration, the game"
+          },
+          {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          {
+            "S": "Experimentation and Optimisation of Mobile Media Delivery"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:31"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Building a Music Recommendation System"
+          },
+          {
+            "S": "Spin it, Maude! A SPIN like model checker in Maude"
+          },
+          {
+            "S": "Emergence of Language with Multi agent HyperNeat"
+          },
+          {
+            "S": "Privacy context game in human agent systems"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Formal analysis of E cclesia"
+          },
+          {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          {
+            "S": "Secure mobile applications using Trusted Execution Environments"
+          },
+          {
+            "S": "Detection of time required to find study space in the Main Library using WiFi data"
+          },
+          {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          },
+          {
+            "S": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery"
+          },
+          {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          {
+            "S": "Deep learning for robot control"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Experiments in Social Signals Analysis for COPD patients"
+          },
+          {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          {
+            "S": "Extensive Evaluation of State of the Art Network Stacks"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          {
+            "S": "Firefighter games"
+          },
+          {
+            "S": "Litter: A location based Twitter app"
+          }
+        ]
+      },
+      "really-want": {
+        "L": []
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:01:00"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "On mobile in group project section it is terrible when i put a lot of projects in a group the list disappeared."
+          },
+          "question3": {
+            "S": "Maybe a way to filter project based on research group. So i can focus om what i can work with instead of opening a project that i actually have no skills for. Its a waste of time."
+          },
+          "question4": {
+            "S": "I had to gamify. I know it wasnt allowed but i had to. And it worked for me. I got the project i wanted. I think the school needs to be more transparent. Ex. At the start they say they dont know what the outcome will be but in the middle before announcement of allocation they said that usually people would get first or second choice. Also i see that some projects are low in interested students and some have really high interested students, so ill say that it is gamification either way and that there is a way to get tge project i want. As i intentionally only have 1 high interest project ranked number 1 and the second has low interest in students. So i dont have issues with the algorithm but nore like the social part of the process."
+          },
+          "question5": {
+            "S": "Transparency on information sharing. Sharing the info about project allocation as early as possible like maybe 1st semester so people who want to propose project can do so (especially those who came here by company scholarship) because when given on second semester it is a bit too much. So maybe you can make it into a few parts. Also i think introducing the research groups and who will be supervising and what theirbexpertise is would be helpful (this is done at Uni of Birmingham). And make a filter that is easier to use and navigate."
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Check Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Rank Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Make an Amazon Alexa talk to people about privacy"
+      },
+      {
+        "S": "Developing an app for children in hospital"
+      },
+      {
+        "S": "Machine Learning for Stock Price Prediction"
+      },
+      {
+        "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+      },
+      {
+        "S": "A smart button for recording \"teaching moments\""
+      },
+      {
+        "S": "Animatikz: A LaTeX package for animations"
+      },
+      {
+        "S": "Web based blocks world experiments for studying language evolution"
+      },
+      {
+        "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+      },
+      {
+        "S": "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution"
+      },
+      {
+        "S": "Generalization in Reinforcement Learning"
+      },
+      {
+        "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+      },
+      {
+        "S": "Developing tools for audio visual speech recognition"
+      },
+      {
+        "S": "Text driven head motion synthesis of animated agents using neural networks"
+      },
+      {
+        "S": "Improved Workflow Execution in WorkflowFM"
+      },
+      {
+        "S": "Indoor air quality monitoring"
+      },
+      {
+        "S": "Model based Control of Continuum Robots"
+      },
+      {
+        "S": "Collision free motion generation using a convex optimisation on Bezier curves"
+      },
+      {
+        "S": "Secure file restrictions for general applications"
+      },
+      {
+        "S": "Synthesizing body details of crowd agents by reinforcement learning"
+      },
+      {
+        "S": "Computing multipebble simulations symbolically with BDDs"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:01:19"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Developing an app for children in hospital"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine Learning for Stock Price Prediction"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Animatikz: A LaTeX package for animations"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Web based blocks world experiments for studying language evolution"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Developing tools for audio visual speech recognition"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Text driven head motion synthesis of animated agents using neural networks"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Improved Workflow Execution in WorkflowFM"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Indoor air quality monitoring"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Model based Control of Continuum Robots"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Collision free motion generation using a convex optimisation on Bezier curves"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Secure file restrictions for general applications"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Synthesizing body details of crowd agents by reinforcement learning"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:00:42"
+  }
+}

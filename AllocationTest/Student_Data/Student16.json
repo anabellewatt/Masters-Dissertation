@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "f1777a07-04ca-499e-92cd-3e9dca7b7824"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "AI for game theory"
+          },
+          {
+            "S": "Exploration of Neural Symbolic AI"
+          },
+          {
+            "S": "Machine learning for modelling cell metabolism"
+          },
+          {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          {
+            "S": "Blockchain Ticketing System"
+          },
+          {
+            "S": "Pretty printing for first year students"
+          },
+          {
+            "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+          },
+          {
+            "S": "Measure what a \"normal\" URL looks like for users"
+          },
+          {
+            "S": "Exploring gamification techniques in children  ™s computer science learning"
+          },
+          {
+            "S": "Representing privacy contexts in multi agent systems"
+          },
+          {
+            "S": "Classifying Mathematical Articles into Their Fields"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Performance characterization of serverless computing"
+          },
+          {
+            "S": "Visual tools and extensions for Attack Trees"
+          },
+          {
+            "S": "Integrated information in a robot swarm"
+          },
+          {
+            "S": "Analysis of Air Pollution, Respiratory and Physical Activity datasets for investigating health effects of air pollution"
+          },
+          {
+            "S": "Secure file restrictions for general applications"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)"
+          },
+          {
+            "S": "A compiler (in Haskell) for FDDL"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          },
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:37"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "Computing multipebble simulations symbolically with BDDs"
+          },
+          {
+            "S": "Graphical animations of some concepts in number theory"
+          },
+          {
+            "S": "Formal Proofs of Cryptographic Protocols"
+          },
+          {
+            "S": "Optimizing mix network security parameters"
+          },
+          {
+            "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+          },
+          {
+            "S": "Auto Parallelisation Through Deep Learning"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Query Rewritability for Rule based Ontology mediated Queries"
+          },
+          {
+            "S": "Learning versatile dynamic motor skills for a quadruped robot"
+          },
+          {
+            "S": "Controlling a Virtual Character by 2D Videos"
+          },
+          {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Reimplement abstract game algorithm in Java"
+          },
+          {
+            "S": "Developing a new web interface for the Archive of Formal Proofs"
+          },
+          {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          {
+            "S": "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements"
+          },
+          {
+            "S": "Improved navigation of recovered teletext data"
+          },
+          {
+            "S": "Haskell Notebooks: applying Jupyter/IHaskell"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:03:36"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "yes it was clear."
+          },
+          "question3": {
+            "S": "probably a mix of all the systems would be useful considering the amount of students and projects that are available"
+          },
+          "question4": {
+            "S": "It was a negative experience. Huge impact on my final year of university and wasted a lot of time trying to improve my situation to no avail. No recognition of the impact that was caused to me or assistance to rectify."
+          },
+          "question5": {
+            "S": "someone needed to responsible for checking the fairness of the algorithm and understanding how it works and checking it every year."
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+      },
+      {
+        "S": "An Interactive Tool for Ethical Thinking"
+      },
+      {
+        "S": "Privacy context game in human agent systems"
+      },
+      {
+        "S": "Deploying workflows on a blockchain"
+      },
+      {
+        "S": "Neural Network pruning for faster execution and smaller memory usage"
+      },
+      {
+        "S": "Exploiting Neural Networks using Adversarial Examples"
+      },
+      {
+        "S": "Adversarial Data: When The Environment Fights Back"
+      },
+      {
+        "S": "Hypertree decompositions"
+      },
+      {
+        "S": "Pretty printing for first year students"
+      },
+      {
+        "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+      },
+      {
+        "S": "Pretty Printing for BNFC meta"
+      },
+      {
+        "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+      },
+      {
+        "S": "Building a hexapod robot platform to test insect inspired navigation algorithms"
+      },
+      {
+        "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+      },
+      {
+        "S": "Tools for extracellular neural recording analysis"
+      },
+      {
+        "S": "Visual Sudoku Solver"
+      },
+      {
+        "S": "Cancer data science and epigenetics"
+      },
+      {
+        "S": "Verification of networks of real time systems"
+      },
+      {
+        "S": "Mobile measurement of urban interference and spectrum utilisation patterns"
+      },
+      {
+        "S": "Hardware Support for JIT Compilation"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:09:13"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "An Interactive Tool for Ethical Thinking"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Privacy context game in human agent systems"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Deploying workflows on a blockchain"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Exploiting Neural Networks using Adversarial Examples"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Adversarial Data: When The Environment Fights Back"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Hypertree decompositions"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pretty printing for first year students"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pretty Printing for BNFC meta"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Building a hexapod robot platform to test insect inspired navigation algorithms"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Tools for extracellular neural recording analysis"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Visual Sudoku Solver"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Cancer data science and epigenetics"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Verification of networks of real time systems"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Mobile measurement of urban interference and spectrum utilisation patterns"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Hardware Support for JIT Compilation"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:02:17"
+  }
+}

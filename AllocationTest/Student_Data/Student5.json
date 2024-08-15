@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "76411ece-2815-40fa-bdce-acecf919f581"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Animatikz: A LaTeX package for animations"
+          },
+          {
+            "S": "Machine learning for large scale extracellular neural recording analysis"
+          },
+          {
+            "S": "Assessing dataset bias in computer vision"
+          },
+          {
+            "S": "Litter: A location based Twitter app"
+          },
+          {
+            "S": "Deep learning for robot control"
+          },
+          {
+            "S": "Analysing and simplifying chord progressions"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Sloppy passwords and security awareness: can a little nudge help?"
+          },
+          {
+            "S": "Linear Existential Rules with Transitivity"
+          },
+          {
+            "S": "Learning to play Draughts"
+          },
+          {
+            "S": "Graphical animations of some concepts in number theory"
+          },
+          {
+            "S": "Retrofitting GraphBLAS to Legacy Code"
+          },
+          {
+            "S": "Privacy Research Artefacts Evaluation"
+          },
+          {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)"
+          },
+          {
+            "S": "Solving the Plumbing Problem in Web Components using Lenses"
+          },
+          {
+            "S": "Supporting Interactive Inference in FRANK"
+          },
+          {
+            "S": "Formal Proofs of Cryptographic Protocols"
+          },
+          {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          },
+          {
+            "S": "Search and recommendation techniques to enhance rich media in education"
+          },
+          {
+            "S": "Pretty Printing for BNFC meta"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:00:36"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Privacy Research Artefacts Evaluation"
+          },
+          {
+            "S": "Data Mining Wikipedia"
+          },
+          {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          {
+            "S": "Estimate robot ego motion with an event based camera"
+          },
+          {
+            "S": "Search and recommendation techniques to enhance rich media in education"
+          },
+          {
+            "S": "Hypertree decompositions"
+          },
+          {
+            "S": "Improving a formal verification tool for cyber physical systems"
+          },
+          {
+            "S": "Sources of variability in neural activity"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "A Software Tool for Recognizing Rule based Ontology Languages"
+          },
+          {
+            "S": "Formal analysis of E cclesia"
+          },
+          {
+            "S": "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+          },
+          {
+            "S": "User studies on Bitcoin wallets"
+          },
+          {
+            "S": "Sharing is Caring: Implementing Virtualised Wi Fi"
+          },
+          {
+            "S": "Improved navigation of recovered teletext data"
+          },
+          {
+            "S": "A web interface for PMark"
+          },
+          {
+            "S": "Hardware Support for JIT Compilation"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          {
+            "S": "Detection of time required to find study space in the Main Library using WiFi data"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Speech driven animation of human heads in conversation using neural networks"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:01:59"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Very easy to navigate"
+          },
+          "question3": {
+            "S": "Unfortunately, we are not made aware in any way of the project allocation algorithm. This makes it almost impossible to decide if there is a better way"
+          },
+          "question4": {
+            "S": "Thankfully, I have self-proposed a project and thus was given it automatically. For the most part however, most of peers did not get their top 3 choices"
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Check Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Group Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Implementing Federated Learning in Tensorflow.js"
+      },
+      {
+        "S": "Deep Reinforcement Learning for Robot Control Tasks"
+      },
+      {
+        "S": "Neural Network pruning for faster execution and smaller memory usage"
+      },
+      {
+        "S": "Automatic detection and classification of human head gestures"
+      },
+      {
+        "S": "A neural circuit to explain the bee dance"
+      },
+      {
+        "S": "Analysing and simplifying chord progressions"
+      },
+      {
+        "S": "A smart button for recording \"teaching moments\""
+      },
+      {
+        "S": "Adversarial Data: When The Environment Fights Back"
+      },
+      {
+        "S": "Approximate haplotype calling from short read sequencing datasets"
+      },
+      {
+        "S": "Experiments in Social Signals Analysis for COPD patients"
+      },
+      {
+        "S": "Extensive Evaluation of State of the Art Network Stacks"
+      },
+      {
+        "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+      },
+      {
+        "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+      },
+      {
+        "S": "Mandelbrot Maps: Web application for exploring fractals"
+      },
+      {
+        "S": "Firefighter games"
+      },
+      {
+        "S": "Analysis of complex networks using Ricci Curvature"
+      },
+      {
+        "S": "Exploring the capabilities of the Lean interactive theorem prover"
+      },
+      {
+        "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+      },
+      {
+        "S": "Pretty Printing for BNFC meta"
+      },
+      {
+        "S": "User space thread migration in Linux"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "05:06:15"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Implementing Federated Learning in Tensorflow.js"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Deep Reinforcement Learning for Robot Control Tasks"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic detection and classification of human head gestures"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A neural circuit to explain the bee dance"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysing and simplifying chord progressions"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Adversarial Data: When The Environment Fights Back"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Approximate haplotype calling from short read sequencing datasets"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Experiments in Social Signals Analysis for COPD patients"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Extensive Evaluation of State of the Art Network Stacks"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Approximation algorithms for analyzing one counter Markov Decision Processes and stochastic games"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Mandelbrot Maps: Web application for exploring fractals"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Firefighter games"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Exploring the capabilities of the Lean interactive theorem prover"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pretty Printing for BNFC meta"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "User space thread migration in Linux"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:20"
+  }
+}

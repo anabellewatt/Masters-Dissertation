@@ -1,0 +1,471 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "8155f387-2635-4ffc-9adb-2d0f1696a9bf"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "The distribution of roots of random polynomials."
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Automatic Proposal of Experiments to Discriminate Between Alternative Repairs to a Faulty Theory"
+          },
+          {
+            "S": "Deep learning for robot control"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          },
+          {
+            "S": "Reproducibility and provenance for neuroscientific data analysis"
+          },
+          {
+            "S": "Search and recommendation techniques to enhance rich media in education"
+          },
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          {
+            "S": "Representation learning of Dyadic collaborative Manipulation systems"
+          },
+          {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          {
+            "S": "Detection of time required to find study space in the Main Library using WiFi data"
+          },
+          {
+            "S": "OK, Piet: A semantic definition for the esoteric programming language Piet"
+          },
+          {
+            "S": "Energy costs of Neural Nets"
+          },
+          {
+            "S": "Measure what a \"normal\" URL looks like for users"
+          },
+          {
+            "S": "A BECTS Diagnosis Tool using Paediatric EEG Data"
+          },
+          {
+            "S": "Supporting Interactive Inference in FRANK"
+          },
+          {
+            "S": "Visualization of composed cryptographic games and automatic derivation of simple cryptographic reductions"
+          },
+          {
+            "S": "Automatic Conversion Between Flavours of SQL"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Cryptanalysis"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:00:04"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          {
+            "S": "Learning systems biology models from data"
+          },
+          {
+            "S": "Web based blocks world experiments for studying language evolution"
+          },
+          {
+            "S": "A workbench for element theory phonology"
+          },
+          {
+            "S": "Implementing Federated Learning in Tensorflow.js"
+          },
+          {
+            "S": "Database Support for Minority Language Policy Research"
+          },
+          {
+            "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+          },
+          {
+            "S": "Evaluation and comparison of static software verification tools"
+          },
+          {
+            "S": "Flying vehicles guided by insect navigation algorithms"
+          },
+          {
+            "S": "A plugin that reminds you the privacy settings in online systems"
+          },
+          {
+            "S": "Scalable Software Messaging Layer for Multiple kernel Operating System"
+          },
+          {
+            "S": "An integrated C/Lisp Emacs debugger"
+          },
+          {
+            "S": "Visual tools and extensions for Attack Trees"
+          },
+          {
+            "S": "Make an Amazon Alexa talk to people about privacy"
+          },
+          {
+            "S": "Practical Quantum Algorithms for Problems on Partially Ordered Sets and Graphs"
+          },
+          {
+            "S": "Alternative implementations of PMark"
+          },
+          {
+            "S": "A Software Tool for Providing Background Information of Posts on Social Media"
+          },
+          {
+            "S": "Experimentation and Optimisation of Mobile Media Delivery"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": []
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Interpretable machine learning in healthcare"
+          },
+          {
+            "S": "Cache Coherence Protocol Library"
+          }
+        ]
+      },
+      "really-want": {
+        "L": []
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:00:07"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": ""
+          },
+          "question3": {
+            "S": ""
+          },
+          "question4": {
+            "S": ""
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Analysing Blockchain Protocols"
+      },
+      {
+        "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+      },
+      {
+        "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+      },
+      {
+        "S": "Near real time speech transcription service"
+      },
+      {
+        "S": "Interactive Task Learning using Corrective Dialogue Moves"
+      },
+      {
+        "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+      },
+      {
+        "S": "Using AI and Machine Learning to improve Learning"
+      },
+      {
+        "S": "Preservation of Codd semantics in databases with SQL nulls"
+      },
+      {
+        "S": "Analysis of Differential Paths in ARX Ciphers Using ARXTools"
+      },
+      {
+        "S": "Energy costs of Neural Nets"
+      },
+      {
+        "S": "Implementation of a SAT counting algorithm"
+      },
+      {
+        "S": "Incrementing the MarkEd online marking tool with support for good feedback"
+      },
+      {
+        "S": "Application for the Rendering of Subdivision Surfaces"
+      },
+      {
+        "S": "Deep Reinforcement Learning for Robot Control Tasks"
+      },
+      {
+        "S": "Fairness characterisation of Urban services"
+      },
+      {
+        "S": "Extending a Linear Logic proofs as processes embedding with units"
+      },
+      {
+        "S": "Practical Quantum Algorithms for Cryptanalysis"
+      },
+      {
+        "S": "Reproducibility and provenance for neuroscientific data analysis"
+      },
+      {
+        "S": "A \"Permissions\" System in Linux"
+      },
+      {
+        "S": "Emergence of Language with Multi agent HyperNeat"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:00:15"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Analysing Blockchain Protocols"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Near real time speech transcription service"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Interactive Task Learning using Corrective Dialogue Moves"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Using AI and Machine Learning to improve Learning"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Analysis of Differential Paths in ARX Ciphers Using ARXTools"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Energy costs of Neural Nets"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementation of a SAT counting algorithm"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Incrementing the MarkEd online marking tool with support for good feedback"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Application for the Rendering of Subdivision Surfaces"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Deep Reinforcement Learning for Robot Control Tasks"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Fairness characterisation of Urban services"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Practical Quantum Algorithms for Cryptanalysis"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Reproducibility and provenance for neuroscientific data analysis"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A \"Permissions\" System in Linux"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Emergence of Language with Multi agent HyperNeat"
+          },
+          "score": {
+            "N": "0"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:00:21"
+  }
+}

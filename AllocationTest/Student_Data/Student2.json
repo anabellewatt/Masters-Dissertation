@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "ea8bd119-1487-4b70-8936-f5484b6fcc13"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Visual Sudoku Solver"
+          },
+          {
+            "S": "Automatic punctuation annotation using Transformers"
+          },
+          {
+            "S": "A machine learning approach to model whole bacterial cells"
+          },
+          {
+            "S": "An experimental study of tree based index data structures"
+          },
+          {
+            "S": "Learning systems biology models from data"
+          },
+          {
+            "S": "Generalization in Reinforcement Learning"
+          },
+          {
+            "S": "Fairness characterisation of Urban services"
+          },
+          {
+            "S": "Machine learning for modelling cell metabolism"
+          },
+          {
+            "S": "Biologically Inspired Multiagent Pursuit Evasion Models"
+          },
+          {
+            "S": "Dynamically modelled trajectory planning for aggressive optimal control"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "An integrated C/Lisp Emacs debugger"
+          },
+          {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          {
+            "S": "A Software Tool for Recognizing Rule based Ontology Languages"
+          },
+          {
+            "S": "Anonymous Messaging on a RaspberryPiNet"
+          },
+          {
+            "S": "Performance characterization of serverless computing"
+          },
+          {
+            "S": "Co design for robots and environments"
+          },
+          {
+            "S": "Formal semantics of the SQL language"
+          },
+          {
+            "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+          },
+          {
+            "S": "Computational modelling of biological learning"
+          },
+          {
+            "S": "Learning autonomous robotic grapsing"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:03:14"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "MegamodelBuild"
+          },
+          {
+            "S": "Task scheduling in heterogeneous ISA processing platforms"
+          },
+          {
+            "S": "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+          },
+          {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          {
+            "S": "Learning in Competitive Games"
+          },
+          {
+            "S": "Modern Analog Computing"
+          },
+          {
+            "S": "An integrated C/Lisp Emacs debugger"
+          },
+          {
+            "S": "Exploring the capabilities of the Lean interactive theorem prover"
+          },
+          {
+            "S": "Extending a Linear Logic proofs as processes embedding with units"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          {
+            "S": "Topics in workflow management for an Industry 4.0 manufacturing floor"
+          },
+          {
+            "S": "Neural Network pruning for faster execution and smaller memory usage"
+          },
+          {
+            "S": "The MarkEd tool for Marking, Feedback and Moderation II"
+          },
+          {
+            "S": "Color identification app"
+          },
+          {
+            "S": "ML driven buffer management in PostgreSQL"
+          },
+          {
+            "S": "Unsupervised phonetic speech segmentation"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+          },
+          {
+            "S": "Using AI and Machine Learning to improve Learning"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:08:46"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yes, it was easy and intuitive."
+          },
+          "question3": {
+            "S": "No."
+          },
+          "question4": {
+            "S": "The system for submitting preferences was fine, however I thought that the process as a whole was unnecessarily mysterious, and often it was impossible to get answers about simple details of what we should do from staff."
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Interpretable machine learning in healthcare"
+      },
+      {
+        "S": "Data Mining Wikipedia"
+      },
+      {
+        "S": "Model based Control of Continuum Robots"
+      },
+      {
+        "S": "Pretty Printing for BNFC meta"
+      },
+      {
+        "S": "Litter: A location based Twitter app"
+      },
+      {
+        "S": "Transcription of Music into Drum Sheets"
+      },
+      {
+        "S": "Color identification app"
+      },
+      {
+        "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+      },
+      {
+        "S": "Sloppy passwords and security awareness: can a little nudge help?"
+      },
+      {
+        "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+      },
+      {
+        "S": "Controlling a Virtual Character by 2D Videos"
+      },
+      {
+        "S": "Haskell Notebooks: applying Jupyter/IHaskell"
+      },
+      {
+        "S": "Performance characterization of serverless computing"
+      },
+      {
+        "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+      },
+      {
+        "S": "Writing a minimal AArch64 JIT compiler in C"
+      },
+      {
+        "S": "Sharing is Caring: Implementing Virtualised Wi Fi"
+      },
+      {
+        "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+      },
+      {
+        "S": "Chase Termination for Linear Existential Rules"
+      },
+      {
+        "S": "Preservation of Codd semantics in databases with SQL nulls"
+      },
+      {
+        "S": "Implementation of the Bayes filter algorithm"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:16:43"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Interpretable machine learning in healthcare"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Data Mining Wikipedia"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Model based Control of Continuum Robots"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pretty Printing for BNFC meta"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Litter: A location based Twitter app"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Color identification app"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Quantum Algorithms for Near Term Devices: Comparing different hardware"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sloppy passwords and security awareness: can a little nudge help?"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A VR based diagnosis platform for ADHD with VR Based Tye tracking and Heart Rate Variability (HRV)"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Controlling a Virtual Character by 2D Videos"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Haskell Notebooks: applying Jupyter/IHaskell"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Performance characterization of serverless computing"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Towards a Closed Formula for the Additive Differential Probability of XOR"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Sharing is Caring: Implementing Virtualised Wi Fi"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Toward a Technology to Overcome Anxiety in Children with Autism"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Chase Termination for Linear Existential Rules"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Preservation of Codd semantics in databases with SQL nulls"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Implementation of the Bayes filter algorithm"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:21"
+  }
+}

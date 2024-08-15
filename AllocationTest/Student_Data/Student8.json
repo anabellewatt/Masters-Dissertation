@@ -1,0 +1,473 @@
+{
+  "UoEProjectSurvey2024": {
+    "S": "19545a57-8c31-4d6e-94ce-70dbdd1a0824"
+  },
+  "checkedProjects": {
+    "M": {
+      "approved": {
+        "L": [
+          {
+            "S": "Translations between relational algebra and relational calculus"
+          },
+          {
+            "S": "A Software Tool for Recognizing Rule based Ontology Languages"
+          },
+          {
+            "S": "Design a Visual Programming Language for Making Minecraft Server Plugins"
+          },
+          {
+            "S": "Implementation of the Bayes filter algorithm"
+          },
+          {
+            "S": "Online Inverse Dynamics Learning using Sparse Gaussian Processes"
+          },
+          {
+            "S": "Transcription of Music into Drum Sheets"
+          },
+          {
+            "S": "Pretty printing for first year students"
+          },
+          {
+            "S": "Developing tokens for Erasure Encoding methods for protecting time streamed data"
+          }
+        ]
+      },
+      "disapproved": {
+        "L": [
+          {
+            "S": "Developing an app for children in hospital"
+          },
+          {
+            "S": "Multicore Processing Support for InfOS"
+          },
+          {
+            "S": "User studies on Bitcoin wallets"
+          },
+          {
+            "S": "Experiments in Social Signals Analysis for COPD patients"
+          },
+          {
+            "S": "ML driven buffer management in PostgreSQL"
+          },
+          {
+            "S": "Estimate robot ego motion with an event based camera"
+          },
+          {
+            "S": "A smart button for recording \"teaching moments\""
+          },
+          {
+            "S": "Simultaneous Localisation and Mapping (SLAM) of The Airways in Lung Bronchoscopy"
+          },
+          {
+            "S": "Deep learning for robot control"
+          },
+          {
+            "S": "Implementing Federated Learning in Tensorflow.js"
+          },
+          {
+            "S": "Pedagogically sensible lab sessions for Software Design and Modelling"
+          },
+          {
+            "S": "Machine Learning for Earth: Using computer vision and machine learning to monitor land degradation caused by climate change"
+          }
+        ]
+      }
+    }
+  },
+  "checkProjectsTime": {
+    "S": "00:01:02"
+  },
+  "groupProjects": {
+    "M": {
+      "dont-want": {
+        "L": [
+          {
+            "S": "Deploying workflows on a blockchain"
+          },
+          {
+            "S": "Access constraints discovery"
+          },
+          {
+            "S": "Energy costs of Neural Nets"
+          },
+          {
+            "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+          },
+          {
+            "S": "Efficient Deep Learning for Acoustic Biodiversity Monitoring"
+          },
+          {
+            "S": "Performance characterization of serverless computing"
+          },
+          {
+            "S": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)"
+          },
+          {
+            "S": "Deep learning for robot control"
+          }
+        ]
+      },
+      "not-qualified": {
+        "L": [
+          {
+            "S": "Task scheduling in heterogeneous ISA processing platforms"
+          }
+        ]
+      },
+      "okay-with": {
+        "L": [
+          {
+            "S": "Chase Termination for Linear Existential Rules"
+          },
+          {
+            "S": "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer"
+          },
+          {
+            "S": "Sources of variability in neural activity"
+          },
+          {
+            "S": "Implementation of the Bayes filter algorithm"
+          },
+          {
+            "S": "Analysis of complex networks using Ricci Curvature"
+          },
+          {
+            "S": "AI for game theory"
+          }
+        ]
+      },
+      "really-want": {
+        "L": [
+          {
+            "S": "Improving read accuracy of floppy disks using software techniques"
+          },
+          {
+            "S": "Developing tools for audio visual speech recognition"
+          },
+          {
+            "S": "Building a Music Recommendation System"
+          },
+          {
+            "S": "Formal analysis of E cclesia"
+          },
+          {
+            "S": "Analysing and simplifying chord progressions"
+          }
+        ]
+      }
+    }
+  },
+  "groupProjectsTime": {
+    "S": "00:01:40"
+  },
+  "questions": {
+    "M": {
+      "answers": {
+        "M": {
+          "question2": {
+            "S": "Yes, but the close button of the pop-up box is quite small and I have to scroll to the top to access it. It would be better to automatically close the pop-up window after clicking outside the pop-up area."
+          },
+          "question3": {
+            "S": ""
+          },
+          "question4": {
+            "S": "I have not heard about the outcome yet."
+          },
+          "question5": {
+            "S": ""
+          }
+        }
+      },
+      "rankedMethods": {
+        "L": [
+          {
+            "S": "Group Projects"
+          },
+          {
+            "S": "Score Projects"
+          },
+          {
+            "S": "Rank Projects"
+          },
+          {
+            "S": "Check Projects"
+          }
+        ]
+      }
+    }
+  },
+  "rankedProjects": {
+    "L": [
+      {
+        "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+      },
+      {
+        "S": "Neurally Guided Bayesian Learning of Programs"
+      },
+      {
+        "S": "Understanding font preferences using MCMC with people"
+      },
+      {
+        "S": "Building a Music Recommendation System"
+      },
+      {
+        "S": "Pretty printing for first year students"
+      },
+      {
+        "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+      },
+      {
+        "S": "Machine learning for modelling cell metabolism"
+      },
+      {
+        "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+      },
+      {
+        "S": "Tools for extracellular neural recording analysis"
+      },
+      {
+        "S": "Reimplement abstract game algorithm in Java"
+      },
+      {
+        "S": "Automatic detection and classification of human head gestures"
+      },
+      {
+        "S": "A web interface for PMark"
+      },
+      {
+        "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+      },
+      {
+        "S": "Privacy Research Artefacts Evaluation"
+      },
+      {
+        "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+      },
+      {
+        "S": "Automatic segmentation of biomes in medium resolution satellite imagery"
+      },
+      {
+        "S": "Virtual Reality Squash Trainer"
+      },
+      {
+        "S": "Search and recommendation techniques to enhance rich media in education"
+      },
+      {
+        "S": "Writing a minimal AArch64 JIT compiler in C"
+      },
+      {
+        "S": "CPU Design using the RISC V Instruction Set Architecture"
+      }
+    ]
+  },
+  "rankedProjectsTime": {
+    "S": "00:02:18"
+  },
+  "scoreProjects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Unsupervised grapheme to phoneme conversion using Word2Vec"
+          },
+          "score": {
+            "N": "10"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Neurally Guided Bayesian Learning of Programs"
+          },
+          "score": {
+            "N": "9"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Understanding font preferences using MCMC with people"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Building a Music Recommendation System"
+          },
+          "score": {
+            "N": "7"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Pretty printing for first year students"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits"
+          },
+          "score": {
+            "N": "6"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Machine learning for modelling cell metabolism"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Tools for extracellular neural recording analysis"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Reimplement abstract game algorithm in Java"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic detection and classification of human head gestures"
+          },
+          "score": {
+            "N": "5"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "A web interface for PMark"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images"
+          },
+          "score": {
+            "N": "4"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Privacy Research Artefacts Evaluation"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Designing and Developing a Technology Based Tool to Help Children with Autism Cope with Changes"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Automatic segmentation of biomes in medium resolution satellite imagery"
+          },
+          "score": {
+            "N": "3"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Virtual Reality Squash Trainer"
+          },
+          "score": {
+            "N": "2"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Search and recommendation techniques to enhance rich media in education"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "Writing a minimal AArch64 JIT compiler in C"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      },
+      {
+        "M": {
+          "name": {
+            "S": "CPU Design using the RISC V Instruction Set Architecture"
+          },
+          "score": {
+            "N": "1"
+          }
+        }
+      }
+    ]
+  },
+  "scoreProjectsTime": {
+    "S": "00:01:15"
+  }
+}
