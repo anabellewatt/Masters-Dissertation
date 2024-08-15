@@ -1,0 +1,176 @@
+{
+  "rankedProjects": [
+    "A web interface for PMark",
+    "Generalization in Reinforcement Learning",
+    "Implementation of the Bayes filter algorithm",
+    "A \"Permissions\" System in Linux",
+    "Building a hexapod robot platform to test insect inspired navigation algorithms",
+    "Deep Reinforcement Learning for Robot Control Tasks",
+    "Understanding font preferences using MCMC with people",
+    "Food Supply Tracking through Blockchain",
+    "Mobile measurement of urban interference and spectrum utilisation patterns",
+    "Transcription of Music into Drum Sheets",
+    "Retrofitting GraphBLAS to Legacy Code",
+    "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+    "User studies on Bitcoin wallets",
+    "Solving terms in the Lukasiewicz mu calculus.",
+    "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+    "Recording Execution Traces through JAVA programs",
+    "Tool to assist with assessing evidence for academic misconduct.",
+    "A computer assisted translator of Latin to English",
+    "Formal semantics of the SQL language",
+    "Biologically Inspired Multiagent Pursuit Evasion Models"
+  ],
+  "scoreProjects": [
+    {
+      "name": "A web interface for PMark",
+      "score": 0
+    },
+    {
+      "name": "Generalization in Reinforcement Learning",
+      "score": 0
+    },
+    {
+      "name": "Implementation of the Bayes filter algorithm",
+      "score": 0
+    },
+    {
+      "name": "A \"Permissions\" System in Linux",
+      "score": 0
+    },
+    {
+      "name": "Building a hexapod robot platform to test insect inspired navigation algorithms",
+      "score": 0
+    },
+    {
+      "name": "Deep Reinforcement Learning for Robot Control Tasks",
+      "score": 0
+    },
+    {
+      "name": "Understanding font preferences using MCMC with people",
+      "score": 0
+    },
+    {
+      "name": "Food Supply Tracking through Blockchain",
+      "score": 0
+    },
+    {
+      "name": "Mobile measurement of urban interference and spectrum utilisation patterns",
+      "score": 0
+    },
+    {
+      "name": "Transcription of Music into Drum Sheets",
+      "score": 0
+    },
+    {
+      "name": "Retrofitting GraphBLAS to Legacy Code",
+      "score": 0
+    },
+    {
+      "name": "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+      "score": 0
+    },
+    {
+      "name": "User studies on Bitcoin wallets",
+      "score": 0
+    },
+    {
+      "name": "Solving terms in the Lukasiewicz mu calculus.",
+      "score": 0
+    },
+    {
+      "name": "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+      "score": 0
+    },
+    {
+      "name": "Recording Execution Traces through JAVA programs",
+      "score": 0
+    },
+    {
+      "name": "Tool to assist with assessing evidence for academic misconduct.",
+      "score": 0
+    },
+    {
+      "name": "A computer assisted translator of Latin to English",
+      "score": 0
+    },
+    {
+      "name": "Formal semantics of the SQL language",
+      "score": 0
+    },
+    {
+      "name": "Biologically Inspired Multiagent Pursuit Evasion Models",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Sloppy passwords and security awareness: can a little nudge help?",
+      "Sources of variability in neural activity",
+      "Automatic punctuation annotation using Transformers",
+      "Developing tools for audio visual speech recognition",
+      "Database Support for Minority Language Policy Research",
+      "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "Using AI and Machine Learning to improve Learning",
+      "The Speckled Puppeteer",
+      "A neural circuit to explain the bee dance",
+      "Virtual Reality Squash Trainer",
+      "Supporting Interactive Inference in FRANK",
+      "Formal analysis of E cclesia",
+      "Topics in workflow management for an Industry 4.0 manufacturing floor",
+      "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements",
+      "Data Mining Wikipedia",
+      "Energy costs of Neural Nets",
+      "Integrated information in a robot swarm",
+      "Solving terms in the Lukasiewicz mu calculus.",
+      "Design a Visual Programming Language for Making Minecraft Server Plugins",
+      "Analysis of media content consumption patterns and modelling mobile media delivery approaches"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+      "Online relation caching for SparkSQL",
+      "Integrated information in a robot swarm",
+      "Learning to play Draughts",
+      "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits",
+      "Unsupervised phonetic speech segmentation",
+      "Solving terms in the Lukasiewicz mu calculus.",
+      "Control of behaviour in a pet robot",
+      "Adversarial Data: When The Environment Fights Back",
+      "Scalable Software Messaging Layer for Multiple kernel Operating System",
+      "A compiler (in Haskell) for FDDL",
+      "Bringing the stupid computer to life",
+      "Computing multipebble simulations symbolically with BDDs",
+      "Graphical animations of some concepts in number theory",
+      "Analysis of Differential Paths in ARX Ciphers Using ARXTools",
+      "A smart button for recording \"teaching moments\"",
+      "Near real time speech transcription service",
+      "Using AI and Machine Learning to improve Learning",
+      "Neurally Guided Bayesian Learning of Programs",
+      "Learning versatile dynamic motor skills for a quadruped robot"
+    ]
+  },
+  "questions": {
+    "answers": {
+      "question2": "",
+      "question3": "",
+      "question4": "",
+      "question5": ""
+    },
+    "rankedMethods": [
+      "Rank Projects",
+      "Score Projects",
+      "Group Projects",
+      "Check Projects"
+    ]
+  },
+  "rankedProjectsTime": "00:00:01",
+  "scoreProjectsTime": "00:00:01",
+  "groupProjectsTime": "00:00:00",
+  "checkProjectsTime": "00:00:02"
+}

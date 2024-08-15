@@ -1,0 +1,176 @@
+{
+  "rankedProjects": [
+    "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+    "Online relation caching for SparkSQL",
+    "Algorithms workbench.",
+    "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation",
+    "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements",
+    "Automatic detection and classification of human head gestures",
+    "Automatic punctuation annotation using Transformers",
+    "Co design for robots and environments",
+    "Online Inverse Dynamics Learning using Sparse Gaussian Processes",
+    "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery",
+    "Tracking beak and foot movements for weaver bird nest building",
+    "Apply existing prefetching techniques to TLB for large data centre applications",
+    "Computational modelling of biological learning",
+    "User studies on Bitcoin wallets",
+    "OK, Piet: A semantic definition for the esoteric programming language Piet",
+    "Animatikz: A LaTeX package for animations",
+    "Solving terms in the Lukasiewicz mu calculus.",
+    "Measure what a \"normal\" URL looks like for users",
+    "Toward a Technology to Overcome Anxiety in Children with Autism",
+    "Structure learning of bipartite Ising models"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+      "score": 0
+    },
+    {
+      "name": "Online relation caching for SparkSQL",
+      "score": 0
+    },
+    {
+      "name": "Algorithms workbench.",
+      "score": 0
+    },
+    {
+      "name": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation",
+      "score": 0
+    },
+    {
+      "name": "Facilitating and authenticating the reading of Terms & Conditions and Privacy Statements",
+      "score": 0
+    },
+    {
+      "name": "Automatic detection and classification of human head gestures",
+      "score": 0
+    },
+    {
+      "name": "Automatic punctuation annotation using Transformers",
+      "score": 0
+    },
+    {
+      "name": "Co design for robots and environments",
+      "score": 0
+    },
+    {
+      "name": "Online Inverse Dynamics Learning using Sparse Gaussian Processes",
+      "score": 0
+    },
+    {
+      "name": "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery",
+      "score": 0
+    },
+    {
+      "name": "Tracking beak and foot movements for weaver bird nest building",
+      "score": 0
+    },
+    {
+      "name": "Apply existing prefetching techniques to TLB for large data centre applications",
+      "score": 0
+    },
+    {
+      "name": "Computational modelling of biological learning",
+      "score": 0
+    },
+    {
+      "name": "User studies on Bitcoin wallets",
+      "score": 0
+    },
+    {
+      "name": "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "score": 0
+    },
+    {
+      "name": "Animatikz: A LaTeX package for animations",
+      "score": 0
+    },
+    {
+      "name": "Solving terms in the Lukasiewicz mu calculus.",
+      "score": 0
+    },
+    {
+      "name": "Measure what a \"normal\" URL looks like for users",
+      "score": 0
+    },
+    {
+      "name": "Toward a Technology to Overcome Anxiety in Children with Autism",
+      "score": 0
+    },
+    {
+      "name": "Structure learning of bipartite Ising models",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Formal semantics of the SQL language",
+      "A plugin that reminds you the privacy settings in online systems",
+      "Localisation and Shape Estimation of a Robotic Bronchoscope in Lung Surgery",
+      "Formal Proofs of Cryptographic Protocols",
+      "Firefighter games",
+      "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+      "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images",
+      "Exploration of Neural Symbolic AI",
+      "Topological analysis of biomedical data",
+      "ML driven buffer management in PostgreSQL",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)",
+      "A Software Tool for Recognizing Rule based Ontology Languages",
+      "Chase Termination for Linear Existential Rules",
+      "A \"Permissions\" System in Linux",
+      "Building a Music Recommendation System",
+      "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors",
+      "Fairness characterisation of Urban services",
+      "Synthesizing body details of crowd agents by reinforcement learning",
+      "Missing pitch estimation and interpolation from speech waveforms with neural networks",
+      "Generalization in Reinforcement Learning"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "Collision free motion generation using a convex optimisation on Bezier curves",
+      "Computational modelling of biological learning",
+      "Online Repository of Teaching and Learning Evaluation Approaches II",
+      "Neurally Guided Bayesian Learning of Programs",
+      "Exploring gamification techniques in children  ™s computer science learning",
+      "Learning in Competitive Games",
+      "Web color palettes using MCMC with people",
+      "A Backend for a Coherence Protocol Generator",
+      "Beyond Species Classification: Re Identification of Individual Animals in Wildlife Images",
+      "Scalable Software Messaging Layer for Multiple kernel Operating System",
+      "Investigation Vulnerabilities of Internet connected blood pressure monitors",
+      "implementing efficient (randomized) algorithms for comparing integers succinctly represented by arithmetic circuits",
+      "Alternative implementations of PMark",
+      "Design a Visual Programming Language for Making Minecraft Server Plugins",
+      "Spin it, Maude! A SPIN like model checker in Maude",
+      "Automatic Conversion Between Flavours of SQL",
+      "Learning versatile dynamic motor skills for a quadruped robot",
+      "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors",
+      "A Software Tool for Providing Background Information of Posts on Social Media",
+      "Haskell Notebooks: applying Jupyter/IHaskell"
+    ]
+  },
+  "questions": {
+    "answers": {
+      "question2": "",
+      "question3": "",
+      "question4": "",
+      "question5": ""
+    },
+    "rankedMethods": [
+      "Rank Projects",
+      "Score Projects",
+      "Group Projects",
+      "Check Projects"
+    ]
+  },
+  "rankedProjectsTime": "00:00:02",
+  "scoreProjectsTime": "00:00:01",
+  "groupProjectsTime": "00:00:00",
+  "checkProjectsTime": "00:00:01"
+}

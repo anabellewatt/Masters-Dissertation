@@ -1,0 +1,176 @@
+{
+  "rankedProjects": [
+    "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+    "Extending a Linear Logic proofs as processes embedding with units",
+    "Tools for extracellular neural recording analysis",
+    "Analysis of Differential Paths in ARX Ciphers Using ARXTools",
+    "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)",
+    "Hardware Support for JIT Compilation",
+    "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics",
+    "Algorithms for computing equilibria in submodular games, and games with strategic complementarities",
+    "Mandelbrot Maps: Web application for exploring fractals",
+    "Learning in Competitive Games",
+    "Flying vehicles guided by insect navigation algorithms",
+    "Implementing Federated Learning in Tensorflow.js",
+    "Reproducibility and provenance for neuroscientific data analysis",
+    "Transportation network analysis with Map Directions API data",
+    "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation",
+    "Tool to assist with assessing evidence for academic misconduct.",
+    "MegamodelBuild",
+    "A \"Permissions\" System in Linux",
+    "Interactive Task Learning using Corrective Dialogue Moves",
+    "Linear Existential Rules with Transitivity"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+      "score": 0
+    },
+    {
+      "name": "Extending a Linear Logic proofs as processes embedding with units",
+      "score": 0
+    },
+    {
+      "name": "Tools for extracellular neural recording analysis",
+      "score": 0
+    },
+    {
+      "name": "Analysis of Differential Paths in ARX Ciphers Using ARXTools",
+      "score": 0
+    },
+    {
+      "name": "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Android Front End)",
+      "score": 0
+    },
+    {
+      "name": "Hardware Support for JIT Compilation",
+      "score": 0
+    },
+    {
+      "name": "Improving the performance of Mixed Integer Linear programming algorithms for legged robot navigation with  domain specific heuristics",
+      "score": 0
+    },
+    {
+      "name": "Algorithms for computing equilibria in submodular games, and games with strategic complementarities",
+      "score": 0
+    },
+    {
+      "name": "Mandelbrot Maps: Web application for exploring fractals",
+      "score": 0
+    },
+    {
+      "name": "Learning in Competitive Games",
+      "score": 0
+    },
+    {
+      "name": "Flying vehicles guided by insect navigation algorithms",
+      "score": 0
+    },
+    {
+      "name": "Implementing Federated Learning in Tensorflow.js",
+      "score": 0
+    },
+    {
+      "name": "Reproducibility and provenance for neuroscientific data analysis",
+      "score": 0
+    },
+    {
+      "name": "Transportation network analysis with Map Directions API data",
+      "score": 0
+    },
+    {
+      "name": "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation",
+      "score": 0
+    },
+    {
+      "name": "Tool to assist with assessing evidence for academic misconduct.",
+      "score": 0
+    },
+    {
+      "name": "MegamodelBuild",
+      "score": 0
+    },
+    {
+      "name": "A \"Permissions\" System in Linux",
+      "score": 0
+    },
+    {
+      "name": "Interactive Task Learning using Corrective Dialogue Moves",
+      "score": 0
+    },
+    {
+      "name": "Linear Existential Rules with Transitivity",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Interpretable machine learning in healthcare",
+      "A Java IDE allowing the editing of code and UML simultaneously.",
+      "Analysis of complex networks using Ricci Curvature",
+      "Make an Amazon Alexa talk to people about privacy",
+      "Topics in workflow management for an Industry 4.0 manufacturing floor",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (Back End)",
+      "Visual tools and extensions for Attack Trees",
+      "Biologically Inspired Multiagent Pursuit Evasion Models",
+      "Developing tools for audio visual speech recognition",
+      "Evaluation and comparison of static software verification tools",
+      "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer",
+      "Deep learning for robot control",
+      "Optimizing mix network security parameters",
+      "Recording Execution Traces through JAVA programs",
+      "Optimizing algorithms in automata theory with Java fork join concurrency",
+      "App for Gathering Experiment Data on Set Recommendation for Multiagent Coordination (iOS Front End)",
+      "Reimplement abstract game algorithm in Java",
+      "Retrofitting GraphBLAS to Legacy Code",
+      "Transcription of Music into Drum Sheets",
+      "The MarkEd tool for Marking, Feedback and Moderation II"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "A computer assisted translator of Latin to English",
+      "Implementing and Evaluating Algorithms for Constraint Shortest Paths",
+      "Color identification app",
+      "Simulation of an existing quantum algorithm emulating an unknown quantum process on a classical device",
+      "Hardware Support for JIT Compilation",
+      "Algorithms for computing equilibria in submodular games, and games with strategic complementarities",
+      "Retrofitting GraphBLAS to Legacy Code",
+      "Verification of networks of real time systems",
+      "Quantum Algorithms for Near Term Devices: Comparing different hardware",
+      "A smart button for recording \"teaching moments\"",
+      "Evaluation and comparison of static software verification tools",
+      "Analysis of media content consumption patterns and modelling mobile media delivery approaches",
+      "Developing tools for audio visual speech recognition",
+      "Generating a Compiler Backend from an Architecture Specification",
+      "Interactive Classifier Training and Data Optimization in the NASA/JPL Complex Data Explorer",
+      "Automatic punctuation annotation using Transformers",
+      "Simultaneous Localisation and Mapping (SLAM) of The Airways in Lung Bronchoscopy",
+      "Optimizing algorithms in automata theory with Java fork join concurrency",
+      "Algorithms workbench.",
+      "Speech driven animation of human heads in conversation using neural networks"
+    ]
+  },
+  "questions": {
+    "answers": {
+      "question2": "",
+      "question3": "",
+      "question4": "",
+      "question5": ""
+    },
+    "rankedMethods": [
+      "Rank Projects",
+      "Score Projects",
+      "Group Projects",
+      "Check Projects"
+    ]
+  },
+  "rankedProjectsTime": "00:00:01",
+  "scoreProjectsTime": "00:00:01",
+  "groupProjectsTime": "00:00:00",
+  "checkProjectsTime": "00:00:01"
+}

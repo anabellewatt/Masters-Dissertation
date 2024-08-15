@@ -1,0 +1,176 @@
+{
+  "rankedProjects": [
+    "Recording Execution Traces through JAVA programs",
+    "Color identification app",
+    "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+    "Improved navigation of recovered teletext data",
+    "A smart button for recording \"teaching moments\"",
+    "Understanding font preferences using MCMC with people",
+    "Investigation Vulnerabilities of Internet connected blood pressure monitors",
+    "Access constraints discovery",
+    "Quantum Algorithms for Near Term Devices: Computational Chemistry",
+    "Online Inverse Dynamics Learning using Sparse Gaussian Processes",
+    "Indoor air quality monitoring",
+    "A BECTS Diagnosis Tool using Paediatric EEG Data",
+    "Implementation of the Bayes filter algorithm",
+    "Measure what a \"normal\" URL looks like for users",
+    "Controlling a Virtual Character by 2D Videos",
+    "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games",
+    "Search and recommendation techniques to enhance rich media in education",
+    "Mobile measurement of urban interference and spectrum utilisation patterns",
+    "Implementing Federated Learning in Tensorflow.js",
+    "Emergence of Language with Multi agent HyperNeat"
+  ],
+  "scoreProjects": [
+    {
+      "name": "Recording Execution Traces through JAVA programs",
+      "score": 0
+    },
+    {
+      "name": "Color identification app",
+      "score": 0
+    },
+    {
+      "name": "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+      "score": 0
+    },
+    {
+      "name": "Improved navigation of recovered teletext data",
+      "score": 0
+    },
+    {
+      "name": "A smart button for recording \"teaching moments\"",
+      "score": 0
+    },
+    {
+      "name": "Understanding font preferences using MCMC with people",
+      "score": 0
+    },
+    {
+      "name": "Investigation Vulnerabilities of Internet connected blood pressure monitors",
+      "score": 0
+    },
+    {
+      "name": "Access constraints discovery",
+      "score": 0
+    },
+    {
+      "name": "Quantum Algorithms for Near Term Devices: Computational Chemistry",
+      "score": 0
+    },
+    {
+      "name": "Online Inverse Dynamics Learning using Sparse Gaussian Processes",
+      "score": 0
+    },
+    {
+      "name": "Indoor air quality monitoring",
+      "score": 0
+    },
+    {
+      "name": "A BECTS Diagnosis Tool using Paediatric EEG Data",
+      "score": 0
+    },
+    {
+      "name": "Implementation of the Bayes filter algorithm",
+      "score": 0
+    },
+    {
+      "name": "Measure what a \"normal\" URL looks like for users",
+      "score": 0
+    },
+    {
+      "name": "Controlling a Virtual Character by 2D Videos",
+      "score": 0
+    },
+    {
+      "name": "reachability algorithms (both qualitative and quantitative) for Branching Markov Decision Processes and Branching Stochastic Games",
+      "score": 0
+    },
+    {
+      "name": "Search and recommendation techniques to enhance rich media in education",
+      "score": 0
+    },
+    {
+      "name": "Mobile measurement of urban interference and spectrum utilisation patterns",
+      "score": 0
+    },
+    {
+      "name": "Implementing Federated Learning in Tensorflow.js",
+      "score": 0
+    },
+    {
+      "name": "Emergence of Language with Multi agent HyperNeat",
+      "score": 0
+    }
+  ],
+  "groupProjects": {
+    "really-want": [],
+    "okay-with": [],
+    "dont-want": [
+      "Access constraints discovery",
+      "Deep learning for robot control",
+      "Visual tools and extensions for Attack Trees",
+      "Implementation of a SAT counting algorithm",
+      "Developing tokens for Erasure Encoding methods for protecting time streamed data",
+      "Incrementing the MarkEd online marking tool with support for fairer and more efficient marking",
+      "Vision for Good",
+      "Representing privacy contexts in multi agent systems",
+      "Parallel database query processing using OpenCL",
+      "Formal semantics of the SQL language",
+      "Web color palettes using MCMC with people",
+      "Generalization in Reinforcement Learning",
+      "Graphical animations of some concepts in number theory",
+      "Sensing Spaces: A Study in Mapping Air Pollution in Public Spaces using Personal Exposure Monitors",
+      "Formal analysis of E cclesia",
+      "Apply existing prefetching techniques to TLB for large data centre applications",
+      "Database Support for Minority Language Policy Research",
+      "Developing tools for audio visual speech recognition",
+      "Integrated information in a robot swarm",
+      "An integrated C/Lisp Emacs debugger"
+    ],
+    "not-qualified": []
+  },
+  "checkedProjects": {
+    "approved": [],
+    "disapproved": [
+      "OK, Piet: A semantic definition for the esoteric programming language Piet",
+      "Collision free motion generation using a convex optimisation on Bezier curves",
+      "Dynamically modelled trajectory planning for aggressive optimal control",
+      "Cache Coherence Protocol Library",
+      "Deep learning for robot control",
+      "Online Repository of Teaching and Learning Evaluation Approaches II",
+      "Investigation Vulnerabilities of Internet connected blood pressure monitors",
+      "Developing Sample Efficient Deep Reinforcement Learning Methods for Robots in the Real World and Simulation",
+      "Bringing the stupid computer to life",
+      "Learning in Competitive Games",
+      "Haskell Notebooks: applying Jupyter/IHaskell",
+      "Hypertree decompositions",
+      "A \"Permissions\" System in Linux",
+      "Topological analysis of biomedical data",
+      "Anonymous Messaging on a RaspberryPiNet",
+      "Tools for teaching Computation and Logic",
+      "Developing tools for audio visual speech recognition",
+      "Design a Visual Programming Language for Making Minecraft Server Plugins",
+      "Efficient Deep Learning for Acoustic Biodiversity Monitoring",
+      "Quantum Algorithms for Near Term Devices: Computational Chemistry"
+    ]
+  },
+  "questions": {
+    "answers": {
+      "question2": "",
+      "question3": "",
+      "question4": "",
+      "question5": ""
+    },
+    "rankedMethods": [
+      "Rank Projects",
+      "Score Projects",
+      "Group Projects",
+      "Check Projects"
+    ]
+  },
+  "rankedProjectsTime": "00:00:02",
+  "scoreProjectsTime": "00:00:01",
+  "groupProjectsTime": "00:00:01",
+  "checkProjectsTime": "00:00:01"
+}
